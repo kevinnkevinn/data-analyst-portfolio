@@ -1,1 +1,1 @@
-
+The file discusses the processing of Company X data to analyze whether sales force training activities can increase company sales. The file includes the creation of a DataFrame, statistical analysis using measures of central tendency and measures of variability, determination of hypotheses H0 and H1, and the execution of a T-Test to draw conclusions from the results in the context of a simple data science implementation using hypothesis testing.
