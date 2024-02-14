@@ -1,0 +1,1610 @@
+year,complaint_description,average_resolution_time
+2014,Basic Needs - Information Referral,0.0
+2014,Austin Code - Construction Ordinance SR,0.0
+2014,Filming Permit - ROW,0.0
+2014,Dead Bird,0.0
+2014,Loud Music,0.0073822530636350157
+2014,Road Sanding Request,0.042553191489361715
+2014,Traffic Signal - Dig Tess Request,0.098879551820728273
+2014,Emergency Road Closure Report,0.26315789473684215
+2014,Vendor Permit - ROW,0.29629629629629628
+2014,Parking Permit- ROW,0.5714285714285714
+2014,Sign - Traffic Sign Emergency,0.61591695501730115
+2014,Mowing City Parks,0.63793103448275879
+2014,Street Lights New,0.65612648221343872
+2014,Park Maintenance - Cemeteries,0.66666666666666663
+2014,Parking Machine Issue,0.9872654155495979
+2014,Park Maintenance - Pool Issues,1.0773067331670823
+2014,Construction/Permitting- ROW,1.2000000000000002
+2014,Code Compliance - Short Term Rental (STR) Appointment,1.3594202898550727
+2014,Roadway Spillage,1.5161290322580647
+2014,Construction Ordinance SR,1.956521739130435
+2014,Austin Code - Request Code Officer,1.9938786867000553
+2014,Park Maintenance - Grounds,2.0194174757281549
+2014,Austin Code - Short Term Rental (STR) Appointment,2.3333333333333339
+2014,Code Compliance,2.7352232618073833
+2014,ARR Street Sweeping,2.8094339622641509
+2014,Valet Permit - ROW,3.0
+2014,ARR Dead Animal Collection,3.0303141649825474
+2014,Austin Code - Signs/Billboards,3.6071428571428572
+2014,Tree Issue ROW/Maintenance (PW),3.8108108108108105
+2014,Parking Ticket Complaint,3.825174825174825
+2014,Concerns in the ROW,3.8649262202043126
+2014,Street Light Issue- Multiple poles/multiple streets,3.890710382513662
+2014,Park Maintenance - Grounds Electrical Issues,3.9096385542168672
+2014,ARR Missed Recycling,4.0169831994156331
+2014,Code Compliance - Signs/Billboards,4.0240811153358687
+2014,Park Maintenance - Grounds Plumbing Issues,4.3852242744063323
+2014,Street Light Issue- Address,4.4269785745518133
+2014,Loose Animal Not Dog,4.56578947368421
+2014,Park Maintenance - Building Issues,4.615384615384615
+2014,Construction Items- ROW,5.0497630331753545
+2014,Park Maintenance - Building Plumbing Issues,5.7410071942446042
+2014,Sign - Traffic Sign Maintenance,6.2214411247803163
+2014,Park Maintenance - Building A/C & Heating Issues,6.27906976744186
+2014,Park Maintenance - Building Electrical Issues,7.5555555555555554
+2014,ARR Missed Yard Trimmings /Organics,7.6288461538461547
+2014,Graffiti Abatement,7.9331578947368415
+2014,Aquatics Hotline Inquiry,8.92526690391459
+2014,Sign - School Zone Sign Maintenance,9.9027777777777786
+2014,Tree Issue ROW/Maintenance (PARD),11.787137165623223
+2014,Sign - Parking Sign Maintenance,11.805940594059408
+2014,Traffic Signal - Maintenance,12.63624250499667
+2014,Water Waste Report,13.385943023497607
+2014,Utility Coordination - ROW,13.5
+2014,Lost Item in Storm Drainage System,15.519230769230768
+2014,Coyote Complaints,17.304975922953449
+2014,School Zone Flasher - Timing/Maintenance,17.759643916913948
+2014,Tree Issue ROW/Emergency (PARD),19.481988472622472
+2014,Mowing Medians,19.811808118081178
+2014,Debris in Street,22.729244114002473
+2014,Obstruction - Urban Forestry,23.437500000000004
+2014,School Issues - Crossing Guards,26.225806451612904
+2014,School Zone - New/Review/Changes,27.089108910891088
+2014,View Obstruction at Intersection,27.686424474187383
+2014,Flooding  Current (Non-Emergency),31.029411764705884
+2014,Sidewalk/Curb Ramp/Route - NEW,33.33073929961089
+2014,Dangerous Animal - Except Dogs,33.9041095890411
+2014,Pothole Repair,35.034702549575073
+2014,Traffic Signal - New/Change,36.558345642540615
+2014,Traffic Calming,38.304733727810657
+2014,Parking Violation Enforcement,40.19047619047619
+2014,Curb/Gutter Repair,40.473451327433629
+2014,Found Animal Report - Keep,40.750933997509335
+2014,Speed Limit - Changes/Signs,41.596330275229363
+2014,Sidewalk Repair,43.653037383177576
+2014,Obstruction in ROW,47.259724715739083
+2014,Animal Bite,49.899135446685875
+2014,Traffic Engineering - General,53.57932692307692
+2014,Creek & Pond Vegetation Control,55.885572139303484
+2014,Flooding - Past,58.125
+2014,Sign - Street Name,60.897003745318358
+2014,Road Markings/Striping - New,63.607407407407408
+2014,Sign - New,64.1875
+2014,Dangerous/Vicious Dog Investigation,68.613445378151255
+2014,Injured / Sick Animal,72.218620521569576
+2014,Wildlife Exposure,74.527156549520768
+2014,Channels/Creeks/Drainage Easement,75.83574244415243
+2014,ARR Dumpster,87.999999999999986
+2014,Flood Report,89.965034965034974
+2014,Pavement Failure,90.889178617992187
+2014,Standing Water,91.054421768707471
+2014,Animal Trapped in Storm Drain,91.752475247524771
+2014,Tree Issue ROW/Emergency (PW),94.500000000000028
+2014,Loose Dog,97.963718356052041
+2014,Street Resurfacing Inquiry,100.54824561403508
+2014,Ditch/Driveway Pipe Services,109.15853658536587
+2014,Bicycle Issues,109.77184466019416
+2014,Drainage - Miscellaneous,109.94230769230769
+2014,Road Markings/Striping - Maintenance,110.59008264462811
+2014,Animal Roadside Sales,116.71999999999998
+2014,ARR Brush and Bulk,117.86666666666667
+2014,Loose Animal (not dog),124.30601092896175
+2014,Found Animal - Pick Up,127.41117764471056
+2014,Fence Repair - MOPAC,141.0
+2014,Flooding - Storms After Business Hours,153.86597938144331
+2014,Barricade Request,154.2777777777778
+2014,Bat Complaint,158.43215613382898
+2014,LeadSmart Program,162.68421052631578
+2014,Guardrail Repair,174.61038961038957
+2014,Alley & Unpaved Street Maintenance,189.23019801980195
+2014,Animal - Proper Care,193.08450704225348
+2014,Bridge Repair,219.07142857142856
+2014,Town Lake Debris Issues,227.06250000000003
+2014,Animal Control - Assistance Request,242.16429924242428
+2014,Guardrail - New,251.14285714285714
+2014,Flooding - Storms During Business Hours,307.3125
+2014,Animal In Vehicle,347.4
+2014,Storm Drain Pipe Services,383.56
+2014,Water Theft Report,588.90740740740739
+2014,Traffic Engineering - Jurisdiction Issue,1026.0
+2014,Ordinance Universal Recycling,1378.125
+2014,Ordinance Single-Use Carryout Bags,1441.4137931034484
+2014,EV PIE Station Issues,1602.5833333333335
+2014,EV PIP Residential Rebate,1604.3571428571429
+2014,Basic Needs - Appointment,1668.0431654676258
+2014,AW - Water Waste Report,2293.0
+2014,Animal Protection - Dangerous Dog Complaint,3109.0
+2014,AW - Water Conservation Violation,3127.0
+2014,Animal Protection - Vicious Dog Complaint,3254.0
+2014,Animal Protection - Assistance Request,3299.2
+2014,Animal Protection - Loose Dog,3360.7142857142858
+2014,Animal Protection - Injured/Sick Animal,3397.4
+2014,Animal Protection - Animal Proper Care,3414.0
+2015,Loud Music,0.0
+2015,Lane/Road Closure Notification,0.0
+2015,Utility Coordination - ROW,0.0
+2015,Newspaper Rack- ROW,0.0
+2015,Heat Advisory,0.0
+2015,Filming Permit - ROW,0.0
+2015,Traffic Signal - Dig Tess Request,0.073797891488814646
+2015,Vendor Permit - ROW,0.076923076923076927
+2015,Road Sanding Request,0.25
+2015,Austin Code - Short Term Rental Complaint SR,0.4940119760479042
+2015,Fence Repair - MOPAC,0.5
+2015,Mowing City Parks,0.55154639175257725
+2015,Austin Code - Construction Ordinance SR,0.66981132075471717
+2015,Street Lights New,0.67622950819672145
+2015,Park Maintenance - Grounds Electrical Issues,0.72052401746724881
+2015,Austin Code - Short Term Rental (STR) Appointment,0.81000000000000016
+2015,Park Maintenance - Grounds Plumbing Issues,0.81333333333333346
+2015,Valet Permit - ROW,0.875
+2015,Park Maintenance - Building Issues,0.912280701754386
+2015,Park Maintenance - Cemeteries,0.94736842105263175
+2015,Park Maintenance - Building A/C & Heating Issues,0.95081967213114749
+2015,WPD - Channels/Creek/Drainage Issues,1.0
+2015,Construction/Permitting- ROW,1.064516129032258
+2015,Park Maintenance - Building Plumbing Issues,1.088235294117647
+2015,Austin Code - Signs/Billboards,1.0978593272171253
+2015,Park Maintenance - Pool Issues,1.112781954887218
+2015,Parking Permit- ROW,1.3076923076923075
+2015,Austin Code - Request Code Officer,1.3829597611514637
+2015,Sign - Traffic Sign Emergency,1.4026666666666663
+2015,Loud Commercial Music,1.4764267990074442
+2015,Park Maintenance - Grounds,1.7403204272363153
+2015,Park Maintenance - Building Electrical Issues,2.0
+2015,Short Term Rental Complaint SR,2.1978417266187047
+2015,WPD - Ditch/Driveway Pipe Services,3.0
+2015,Concerns in the ROW,3.0044052863436126
+2015,Sign - Traffic Sign Maintenance,3.559354226020893
+2015,Construction Items- ROW,4.0274599542334091
+2015,Street Light Issue- Address,4.3116490166414518
+2015,ARR Street Sweeping,4.4055023923444976
+2015,Sign - Parking Sign Maintenance,4.4745762711864412
+2015,ARR Missed Recycling,4.634647234183503
+2015,School Zone Flasher - Timing/Maintenance,5.1550561797752819
+2015,Street Light Issue- Multiple poles/multiple streets,5.3290734824281145
+2015,Sign - School Zone Sign Maintenance,5.5476190476190483
+2015,Traffic Signal - Maintenance,5.9644154867811059
+2015,Water Waste Report,6.0402684563758386
+2015,Parking Machine Issue,6.2673796791443852
+2015,ARR Dead Animal Collection,6.5690483819288694
+2015,Roadway Spillage,6.6285714285714281
+2015,Pothole Repair,8.5998906805138
+2015,ARR Missed Yard Trimmings /Organics,10.263689634269554
+2015,Barricade Request,12.8034188034188
+2015,Emergency Road Closure Report,14.774193548387098
+2015,Debris in Street,15.628964691801318
+2015,Ditch/Driveway Pipe Services,16.559139784946236
+2015,Graffiti Abatement,16.665020888720097
+2015,Aquatics Hotline Inquiry,17.276453765490942
+2015,Lost Item in Storm Drainage System,17.756272401433691
+2015,Guardrail Repair,18.142857142857142
+2015,Found Animal Report - Keep,19.180910099889012
+2015,Flooding Current (Non-Emergency),20.0
+2015,Storm Drain Pipe Services,21.615384615384617
+2015,Sidewalk/Curb Ramp/Route - NEW,23.250746268656716
+2015,View Obstruction at Intersection,23.434844192634554
+2015,Flooding - Past,23.507128309572302
+2015,Creek & Pond Vegetation Control,24.180000000000003
+2015,Flooding  Current (Non-Emergency),25.200238379022643
+2015,Sidewalk Repair,28.063218390804597
+2015,Town Lake Debris Issues,29.4
+2015,Parking Violation Enforcement,29.979591836734695
+2015,School Issues - Crossing Guards,30.910447761194035
+2015,Sign - Street Name,33.893653516295025
+2015,Speed Limit - Changes/Signs,37.747474747474747
+2015,Channels/Creeks/Drainage Easement,38.875576036866356
+2015,Sign - New,39.614202049780374
+2015,School Zone - New/Review/Changes,40.6328125
+2015,Standing Water,41.87081339712919
+2015,Traffic Calming,42.064102564102555
+2015,Parking Ticket Complaint,42.165289256198335
+2015,Traffic Engineering - General,43.602409638554214
+2015,Road Markings/Striping - New,44.020202020202021
+2015,Road Markings/Striping - Maintenance,44.598650927487348
+2015,Traffic Signal - New/Change,46.815201192250377
+2015,Animal Bite,49.156836461126012
+2015,Drainage - Miscellaneous,50.387596899224789
+2015,Curb/Gutter Repair,51.743589743589745
+2015,Street Resurfacing Inquiry,59.645714285714291
+2015,Tree Issue ROW/Maintenance (PW),60.430599369085186
+2015,Obstruction in ROW,62.031500572737691
+2015,Tree Issue ROW/Emergency (PW),91.067911714770787
+2015,ARR Brush and Bulk,92.7640306122449
+2015,Injured / Sick Animal,94.301521438450891
+2015,Bridge Repair,105.02857142857142
+2015,Alley & Unpaved Street Maintenance,105.94280078895466
+2015,LeadSmart Program,118.4
+2015,EV PIE Station Issues,118.94736842105263
+2015,Pavement Failure,120.62114904246462
+2015,Bicycle Issues,131.70637119113573
+2015,Neighborhood Home Programs,144.33333333333334
+2015,Mowing Medians,146.91758241758242
+2015,Dangerous/Vicious Dog Investigation,167.86556169429102
+2015,Guardrail - New,170.08333333333334
+2015,Wildlife Exposure,170.53703703703704
+2015,Animal Trapped in Storm Drain,170.986013986014
+2015,Found Animal - Pick Up,180.97130242825608
+2015,Loose Animal Not Dog,185.55956112852664
+2015,Animal In Vehicle,201.56028368794327
+2015,Animal - Proper Care,215.65880102040813
+2015,Ordinance Universal Recycling,256.58620689655174
+2015,Ordinance Single-Use Carryout Bags,261.42105263157896
+2015,Loose Dog,274.88701870187026
+2015,Animal Roadside Sales,292.6875
+2015,Animal Control - Assistance Request,297.66312056737593
+2015,EV PIP Residential Rebate,327.9
+2015,ARR Dumpster,446.69230769230768
+2015,Water Theft Report,525.784946236559
+2015,Obstruction - Urban Forestry,562.45454545454538
+2015,Public Health - Graffiti Abatement,665.36842105263156
+2015,AFD - Wildfire Concern / Presentation,1005.8333333333333
+2015,Public Health - Environmental Services - City,1142.1428571428571
+2015,Austin Code - Construction Rest Break Complaint,1203.0
+2015,Animal Protection - Found Animal Assistance,2678.5
+2015,Animal Protection - Dangerous Dog Complaint,2774.0
+2015,Animal Protection - Animal In Vehicle,2914.0
+2015,Animal Protection - Assistance Request,2990.7142857142858
+2015,Animal Protection - Injured/Sick Animal,3030.0
+2015,Animal Protection - Wildlife Exposure,3071.5
+2015,Animal Protection - Loose Dog,3083.666666666667
+2015,Animal Protection - Animal Bite,3084.5
+2015,Animal Protection - Vicious Dog Complaint,3095.0
+2016,Lane/Road Closure Notification,0.0
+2016,Fence Repair - MOPAC,0.0
+2016,Newspaper Rack- ROW,0.0
+2016,Parking Violation Enforcement,0.3048780487804878
+2016,Street Lights New,0.38461538461538469
+2016,Mowing City Parks,0.4375
+2016,Austin Code - Construction Ordinance SR,0.5
+2016,Park Maintenance - Grounds,0.58386167146974077
+2016,Austin Code - Short Term Rental (STR) Appointment,0.60674157303370779
+2016,Park Maintenance - Grounds Electrical Issues,0.62380952380952381
+2016,Park Maintenance - Grounds Plumbing Issues,0.67624020887728453
+2016,Austin Code - Short Term Rental Complaint SR,0.70270270270270274
+2016,Traffic Signal - Dig Tess Request,0.90269828291087506
+2016,ARR Dead Animal Collection,0.90465239695736754
+2016,Residential Parking Permit Enforcement,1.0
+2016,Austin Code - Woodridge Apt,1.0
+2016,Park Maintenance - Building Plumbing Issues,1.0238095238095239
+2016,Park Maintenance - Building Electrical Issues,1.103448275862069
+2016,Park Maintenance - Building Issues,1.1587301587301588
+2016,Park Maintenance - Cemeteries,1.2758620689655171
+2016,Construction/Permitting- ROW,1.3636363636363638
+2016,Loud Commercial Music,1.4434782608695651
+2016,Valet Permit - ROW,1.5
+2016,Parking Permit- ROW,1.5833333333333333
+2016,Austin Code - Signs/Billboards,1.604054054054054
+2016,Vendor Permit - ROW,1.625
+2016,Park Maintenance - Building A/C & Heating Issues,1.76
+2016,Austin Code - Request Code Officer,2.3113141862489122
+2016,Parking Machine Issue,2.390087463556851
+2016,Park Maintenance - Pool Issues,2.5927272727272723
+2016,Austin Code - Construction Rest Break Complaint,2.9444444444444442
+2016,Construction Items- ROW,3.0
+2016,Street Light Issue- Multiple poles/multiple streets,3.602272727272728
+2016,ARR Missed Recycling,4.3199165175909355
+2016,ARR Street Sweeping,4.3421052631578947
+2016,School Zone Flasher - Timing/Maintenance,4.4648910411622262
+2016,Traffic Signal - Maintenance,4.5970245795601548
+2016,Sign - School Zone Sign Maintenance,4.8051948051948052
+2016,Street Light Issue- Address,5.195105254150266
+2016,ARR Missed Yard Trimmings /Organics,5.602399781838014
+2016,Water Waste Report,7.0113397732045355
+2016,Sign - Traffic Sign Maintenance,7.5413771320277956
+2016,Sign - Traffic Sign Emergency,8.2631578947368443
+2016,Sign - Parking Sign Maintenance,9.0474777448071215
+2016,Utility Coordination - ROW,10.0
+2016,Aquatics Hotline Inquiry,10.148626817447495
+2016,Concerns in the ROW,11.673499267935577
+2016,Construction items in ROW,12.930188679245282
+2016,Sign - Street Name,16.172839506172842
+2016,View Obstruction at Intersection,16.411225658648338
+2016,Animal In Vehicle,19.180434782608696
+2016,Traffic Engineering - Jurisdiction Issue,21.0
+2016,Sidewalk/Curb Ramp/Route - NEW,23.987179487179493
+2016,Traffic Calming,26.072429906542055
+2016,Speed Limit - Changes/Signs,29.580246913580243
+2016,Road Markings/Striping - New,31.541076487252123
+2016,Traffic Engineering - General,32.196172248803826
+2016,Animal Bite,33.374468085106393
+2016,Graffiti Abatement,33.799002685078626
+2016,Sign - New,34.802948021722258
+2016,Road Markings/Striping - Maintenance,39.030162412993043
+2016,Found Animal Report - Keep,43.218128654970762
+2016,Animal - Proper Care,45.0158625247852
+2016,ARR Brush and Bulk,50.466592427616931
+2016,Injured / Sick Animal,54.542972247090411
+2016,Standing Water,62.602898550724646
+2016,Animal Control - Assistance Request,65.5473055994383
+2016,Traffic Signal - New/Change,68.719342604298362
+2016,Ditch/Driveway Pipe Services,70.3768115942029
+2016,Guardrail - New,72.0
+2016,School Issues - Crossing Guards,74.770491803278674
+2016,Loose Animal Not Dog,77.318600368324113
+2016,School Zone - New/Review/Changes,78.817204301075279
+2016,Dangerous/Vicious Dog Investigation,84.862888482632556
+2016,Road Sanding Request,91.5
+2016,Found Animal - Pick Up,93.3027139874739
+2016,Drainage - Miscellaneous,93.468354430379748
+2016,Loose Dog,94.198094800872241
+2016,Wildlife Exposure,99.810457516339866
+2016,Animal Trapped in Storm Drain,105.08593749999999
+2016,Lost Item in Storm Drainage System,111.20521172638436
+2016,Creek & Pond Vegetation Control,129.71663619744058
+2016,Channels/Creeks/Drainage Easement,130.91310541310543
+2016,Storm Drain Pipe Services,140.10000000000002
+2016,Flooding - Past,140.69565217391303
+2016,Street Resurfacing Inquiry,143.20858895705518
+2016,Flooding  Current (Non-Emergency),144.1010101010101
+2016,Town Lake Debris Issues,144.18181818181819
+2016,Public Health - Graffiti Abatement,173.19566898685227
+2016,AFD - Wildfire Concern / Presentation,174.21428571428572
+2016,Guardrail Repair,174.33333333333337
+2016,Debris in Street,183.33739218670723
+2016,Tree Issue ROW/Emergency (PW),188.36
+2016,Ordinance Universal Recycling,197.54761904761904
+2016,Bicycle Issues,207.11138613861388
+2016,Tree Issue ROW/Maintenance (PW),214.73255813953489
+2016,Barricade Request,222.01298701298703
+2016,Animal Roadside Sales,225.82142857142856
+2016,Obstruction in ROW,228.89334195216551
+2016,Roadway Spillage,229.68750000000003
+2016,Ordinance Single-Use Carryout Bags,230.92307692307693
+2016,Mowing Medians,239.9416581371546
+2016,Pothole Repair,243.87560975609756
+2016,Bridge Repair,246.225
+2016,Sidewalk Repair,246.33277310924367
+2016,Obstruction - Urban Forestry,260.77777777777777
+2016,Pavement Failure,268.13092783505158
+2016,Curb/Gutter Repair,331.73913043478251
+2016,Neighborhood Home Programs,336.32967032967031
+2016,Alley & Unpaved Street Maintenance,378.25158562367864
+2016,Coyote Complaints,408.125
+2016,Water Theft Report,539.21126760563391
+2016,Tree Issue ROW,751.10909090909092
+2016,Public Health - Environmental Services - County,798.0
+2016,Guardrail New/Repair,804.75
+2016,Public Health - Environmental Services - City,856.99999999999989
+2016,EV PIE Station Issues,869.14285714285711
+2016,Street Resurfacing,879.51724137931035
+2016,ARR Dumpster,901.33333333333337
+2016,EV PIP Residential Rebate,963.5
+2016,AW - Water Waste Report,1158.7352941176471
+2016,AW - Water Conservation Violation,2171.125
+2016,Animal Protection - Animal In Vehicle,2517.0
+2016,Animal Protection - Found Animal Assistance,2525.6666666666665
+2016,Animal Protection - Assistance Request,2583.2000000000003
+2016,Animal Protection - Injured/Sick Animal,2613.2
+2016,Animal Protection - Loose Animal Not Dog,2642.5
+2016,Animal Protection - Loose Dog,2652.75
+2016,Animal Protection - Wildlife Exposure,2686.0
+2016,Animal Protection - Animal Bite,2885.0
+2017,Lane/Road Closure Notification,0.0
+2017,Austin Code - Construction Rest Break Complaint,0.0
+2017,Filming Permit - ROW,0.0
+2017,Valet Permit - ROW,0.0
+2017,Austin Code - Short Term Rental Complaint SR,0.0009560229445506694
+2017,Austin Code - Signs/Billboards,0.020376175548589344
+2017,Austin Code - Short Term Rental (STR) Appointment,0.025252525252525256
+2017,Austin Code - Request Code Officer,0.038305709023941092
+2017,Street Lights New,0.34539473684210525
+2017,Parking Permit- ROW,0.5
+2017,Park Maintenance - Pool Issues,0.59782608695652173
+2017,Loud Commercial Music,0.62029923170238588
+2017,Park Maintenance - Building Issues,0.67441860465116277
+2017,Park Maintenance - Grounds,0.69444444444444464
+2017,ARR Dead Animal Collection,0.70335570469798681
+2017,Park Maintenance - Grounds Electrical Issues,0.71084337349397586
+2017,Park Maintenance - Cemeteries,0.73529411764705888
+2017,Park Maintenance - Building Electrical Issues,0.74193548387096786
+2017,Park Maintenance - Grounds Plumbing Issues,0.76
+2017,Construction/Permitting- ROW,0.81250000000000022
+2017,Park Maintenance - Building Plumbing Issues,0.846153846153846
+2017,Park Maintenance - Building A/C & Heating Issues,0.9647058823529413
+2017,Mowing City Parks,0.97350993377483441
+2017,Vendor Permit - ROW,1.2000000000000002
+2017,Parking Machine Issue,1.7275503970678074
+2017,Concerns in the ROW,1.8164948453608252
+2017,zCoyote Complaints,2.0
+2017,Construction items in ROW,2.7847222222222223
+2017,ARR Missed Yard Trimmings/Compost,2.860243515087348
+2017,Street Light Issue- Multiple poles/multiple streets,3.2802547770700636
+2017,ARR Missed Recycling,3.6169585856932396
+2017,ARR Missed Yard Trimmings /Organics,3.6538586779550632
+2017,Newspaper Rack- ROW,4.0
+2017,Animal Roadside Sales,6.1071428571428568
+2017,Street Light Issue- Address,6.1529392500409372
+2017,Parking Violation Enforcement,6.4530386740331487
+2017,Animal Trapped in Storm Drain,6.5593220338983063
+2017,Traffic Signal - Dig Tess Request,7.60475651189128
+2017,Found Animal Report - Keep,7.9325912183055047
+2017,Traffic Engineering - Jurisdiction Issue,9.0
+2017,ARR Street Sweeping,9.2414448669201512
+2017,Water Waste Report,9.3072390572390571
+2017,Animal In Vehicle,9.504930966469427
+2017,View Obstruction at Intersection,14.413721413721413
+2017,Residential Parking Permit Enforcement,15.302325581395346
+2017,Traffic Signal - Maintenance,17.157857432158767
+2017,Traffic Calming,18.563679245283023
+2017,School Zone Flasher - Timing/Maintenance,21.800000000000004
+2017,Sign - Traffic Sign Maintenance,23.095939086294415
+2017,Sign - Street Name,23.733668341708547
+2017,ARR Brush and Bulk,23.947266569908077
+2017,Animal Bite,24.325597749648377
+2017,Aquatics Hotline Inquiry,24.598425196850393
+2017,Sign - Parking Sign Maintenance,26.045845272206307
+2017,Loose Dog,26.430752584755947
+2017,Speed Limit - Changes/Signs,26.885245901639344
+2017,Sidewalk/Curb Ramp/Route - NEW,27.597457627118647
+2017,Animal Control - Assistance Request,27.63945463726645
+2017,Sign - Traffic Sign Emergency,27.765492102065615
+2017,Public Health - Environmental Services - City,28.6175972927242
+2017,Road Markings/Striping - New,29.056980056980063
+2017,Found Animal - Pick Up,29.058883248730968
+2017,Traffic Engineering - General,29.108231707317074
+2017,Sign - School Zone Sign Maintenance,29.766666666666669
+2017,Animal - Proper Care,30.76565096952908
+2017,Sign - New,30.922664624808576
+2017,Wildlife Exposure,33.532170775706554
+2017,Dangerous/Vicious Dog Investigation,35.633116883116884
+2017,Loose Animal Not Dog,36.197707736389695
+2017,Public Health - Environmental Services - County,39.672727272727279
+2017,Road Markings/Striping - Maintenance,45.3675
+2017,Injured / Sick Animal,45.8948082138706
+2017,School Issues - Crossing Guards,53.359999999999992
+2017,School Zone - New/Review/Changes,56.01398601398602
+2017,Standing Water,58.063829787234042
+2017,Traffic Signal - New/Change,80.061743341404352
+2017,Public Health - Graffiti Abatement,82.99137466307279
+2017,Street Resurfacing Inquiry,92.97727272727272
+2017,Ditch/Driveway Pipe Services,98.805555555555557
+2017,AFD - Wildfire Concern / Presentation,121.81081081081081
+2017,Obstruction - Urban Forestry,133.16666666666669
+2017,Fence/Wall Repair,135.75
+2017,Creek & Pond Vegetation Control,136.76363636363635
+2017,Flooding - Past,146.42857142857139
+2017,Channels/Creeks/Drainage Easement,147.98012232415903
+2017,Flooding  Current (Non-Emergency),148.912
+2017,Pothole Repair,149.58396188963872
+2017,Tree Issue ROW/Maintenance (PW),151.30927835051551
+2017,Lost Item in Storm Drainage System,152.23646723646723
+2017,Curb/Gutter Repair,153.75647668393779
+2017,Debris in Street,164.18546511627909
+2017,Alley & Unpaved Street Maintenance,172.340206185567
+2017,Pavement Failure,174.59408602150535
+2017,Mowing Medians,176.83274021352312
+2017,Guardrail Repair,179.88311688311688
+2017,Fence Repair - MOPAC,181.0
+2017,Road Sanding Request,183.5
+2017,Coyote Complaints,185.85977011494253
+2017,Guardrail - New,186.33333333333334
+2017,Sidewalk Repair,186.57015810276675
+2017,Tree Issue ROW/Emergency (PW),186.73716012084591
+2017,Town Lake Debris Issues,198.4
+2017,Roadway Spillage,203.38461538461539
+2017,Barricade Request,204.56250000000003
+2017,Obstruction in ROW,210.37902483900643
+2017,Bridge Repair,211.34482758620689
+2017,Storm Drain Pipe Services,211.75
+2017,Bicycle Issues,219.91130820399115
+2017,zz - Coyote Compliants,241.42857142857142
+2017,Tree Issue ROW,244.5519077196096
+2017,Street Resurfacing,279.98876404494388
+2017,Water Theft Report,398.57317073170736
+2017,Guardrail New/Repair,429.28571428571433
+2017,Ordinance Single-Use Carryout Bags,485.6
+2017,EV PIP Residential Rebate,553.33333333333337
+2017,Neighborhood Home Programs,562.95
+2017,ARR Dumpster,572.75
+2017,EV PIE Station Issues,608.55555555555554
+2017,AW - Water Waste Report,883.884892086331
+2017,Ordinance Universal Recycling,904.5
+2017,AW - Water Conservation Violation,1934.8888888888891
+2017,Animal Protection - Wildlife Exposure,2056.0
+2017,Animal Protection - Assistance Request,2210.333333333333
+2017,Animal Protection - Animal In Vehicle,2210.5
+2017,Animal Protection - Loose Animal Not Dog,2216.0
+2017,Animal Protection - Found Animal Assistance,2244.0
+2017,Animal Protection - Animal Bite,2245.5
+2017,Animal Protection - Injured/Sick Animal,2294.3333333333335
+2017,Animal Protection - Animal Proper Care,2314.0
+2017,Animal Protection - Loose Dog,2327.7272727272725
+2018,EV PIP Residential Rebate,0.0
+2018,Lane/Road Closure Notification,0.01186375813241485
+2018,Austin Code - Short Term Rental Complaint SR,0.022739877981142544
+2018,Austin Code - Construction Rest Break Complaint,0.029411764705882353
+2018,Austin Code - Request Code Officer,0.045247437033286937
+2018,Austin Code - Signs/Billboards,0.056795131845841812
+2018,Loud Commercial Music,0.44873699851411586
+2018,Residential Parking Permit Enforcement,0.51724137931034486
+2018,Austin Code - Short Term Rental (STR) Appointment,0.53086419753086411
+2018,Street Lights New,0.59121621621621634
+2018,ARR Dead Animal Collection,0.61661832451800058
+2018,Park Maintenance - Pool Issues,1.3742038216560508
+2018,Park Maintenance - Grounds Plumbing Issues,1.412921348314607
+2018,Park Maintenance - Grounds Electrical Issues,1.5506607929515417
+2018,Park Maintenance - Building Plumbing Issues,1.6691176470588238
+2018,Park Maintenance - Grounds,1.6867584242999525
+2018,Parking Machine Issue,1.6969301110385371
+2018,Park Maintenance - Building Electrical Issues,1.75
+2018,Filming Permit - ROW,1.75
+2018,Dockless Mobility,1.7841666666666665
+2018,Park Maintenance - Building A/C & Heating Issues,1.8476190476190477
+2018,Mowing City Parks,1.9139784946236555
+2018,Park Maintenance - Building Issues,1.9189189189189191
+2018,Traffic Signal - Dig Tess Request,1.9733606557377046
+2018,Street Light Issue- Multiple poles/multiple streets,2.3319327731092443
+2018,Park Maintenance - Cemeteries,2.333333333333333
+2018,ARR Missed Yard Trimmings/Compost,2.7907146773898739
+2018,Parking Violation Enforcement,3.2323049001814872
+2018,Public Health - Environmental Services - County,3.2784810126582267
+2018,Vendor Permit - ROW,3.5294117647058822
+2018,Street Light Issue- Address,4.1425017768301364
+2018,Utility Coordination - ROW,5.5
+2018,Public Health - Environmental Services - City,5.5493333333333323
+2018,Valet Permit - ROW,5.6
+2018,Construction/Permitting- ROW,6.21875
+2018,Animal Trapped in Storm Drain,6.3481481481481472
+2018,ATD - Booting Complaint,7.4285714285714288
+2018,Newspaper Rack- ROW,7.5
+2018,ARR Street Sweeping,7.6112266112266092
+2018,ARR Brush and Bulk,8.1797468354430372
+2018,Parking Permit- ROW,8.3333333333333321
+2018,School Zone Flasher - Timing/Maintenance,8.6703056768558966
+2018,Traffic Signal - Maintenance,8.9774793560764
+2018,Animal In Vehicle,12.226480836236936
+2018,Traffic Calming,12.749440715883669
+2018,Concerns in the ROW,12.804295942720763
+2018,Construction items in ROW,15.278125000000001
+2018,Animal Bite,18.14657738095238
+2018,Animal - Proper Care,18.457010963646859
+2018,View Obstruction at Intersection,18.667410714285712
+2018,Wildlife Exposure,20.161917098445596
+2018,Traffic Engineering - General,20.977900552486187
+2018,Dangerous/Vicious Dog Investigation,22.569148936170219
+2018,Loose Dog,22.702227985382521
+2018,Sidewalk/Curb Ramp/Route - NEW,23.223255813953486
+2018,Sign - Traffic Sign Maintenance,23.2701062215478
+2018,Sign - Street Name,23.961852861035414
+2018,Animal Control - Assistance Request,23.984187829420222
+2018,Sign - Parking Sign Maintenance,25.448170731707322
+2018,Traffic Signal - New/Change,26.416488222698074
+2018,Road Markings/Striping - New,27.636363636363637
+2018,Injured / Sick Animal,28.064057672502571
+2018,School Zone - New/Review/Changes,29.048192771084342
+2018,Found Animal - Pick Up,29.054147465437786
+2018,Sign - New,29.635756676557858
+2018,Sign - Traffic Sign Emergency,31.909586056644876
+2018,Sign - School Zone Sign Maintenance,33.884057971014492
+2018,School Issues - Crossing Guards,34.566037735849058
+2018,Speed Limit - Changes/Signs,35.346153846153847
+2018,Loose Animal Not Dog,40.897119341563787
+2018,Found Animal Report - Keep,43.67425569176882
+2018,Road Markings/Striping - Maintenance,44.403225806451623
+2018,Aquatics Hotline Inquiry,47.234782608695646
+2018,Bicycle Issues,47.896284829721367
+2018,Public Health - Graffiti Abatement,48.485809682804678
+2018,Coyote Complaints,50.591414944356117
+2018,AFD - Wildfire Concern / Presentation,54.171428571428571
+2018,ARR Missed Recycling,63.295529552955308
+2018,Animal Roadside Sales,67.2051282051282
+2018,Standing Water,73.76
+2018,Water Waste Report,78.15267175572518
+2018,Ditch/Driveway Pipe Services,106.15942028985506
+2018,Water Theft Report,144.08823529411768
+2018,Channels/Creeks/Drainage Easement,148.13260530421218
+2018,Flooding  Current (Non-Emergency),153.55389221556888
+2018,EV PIE Station Issues,153.66666666666666
+2018,Flooding - Past,157.64166666666665
+2018,Town Lake Debris Issues,169.4
+2018,Lost Item in Storm Drainage System,170.27298050139277
+2018,Pothole Repair,177.38466165413533
+2018,Debris in Street,180.15781487101668
+2018,Creek & Pond Vegetation Control,182.1165644171779
+2018,Fence/Wall Repair,184.66666666666666
+2018,Storm Drain Pipe Services,187.76363636363635
+2018,Roadway Spillage,189.23684210526315
+2018,Road Sanding Request,191.0
+2018,Tree Issue ROW,192.49696794686693
+2018,Mowing Medians,192.75379939209725
+2018,Alley & Unpaved Street Maintenance,195.60060975609755
+2018,Sidewalk Repair,199.48521739130436
+2018,Guardrail Repair,201.0
+2018,Bridge Repair,204.86
+2018,Pavement Failure,207.22442244224425
+2018,Curb/Gutter Repair,213.16
+2018,Guardrail New/Repair,217.46601941747571
+2018,Obstruction in ROW,219.18084153983884
+2018,Street Resurfacing,243.33333333333331
+2018,Neighborhood Home Programs,387.70588235294116
+2018,Ordinance Single-Use Carryout Bags,390.5
+2018,AW - Water Waste Report,548.28350515463922
+2018,AW - Water Conservation Violation,1343.727923627685
+2018,APD - Vehicle Abatement Report,1382.9565217391303
+2018,Pet Resource Center - Assistance Request,1485.0
+2018,Animal Protection - Found Animal Assistance,1548.0
+2018,Animal Protection - Animal In Vehicle,1670.0
+2018,Animal Protection - Dangerous Dog Complaint,1821.0
+2018,Animal Protection - Animal Bite,1864.6666666666667
+2018,Animal Protection - Assistance Request,1877.3333333333333
+2018,Animal Protection - Injured/Sick Animal,1885.3333333333335
+2018,Animal Protection - Animal Proper Care,1911.2
+2018,Animal Protection - Loose Dog,1912.2941176470588
+2018,Animal Protection - Wildlife Exposure,1943.0
+2018,Animal Protection - Coyote Complaints,1975.0
+2019,Austin Code - Construction Rest Break Complaint,0.0
+2019,Austin Code - Signs/Billboards,0.0054054054054054048
+2019,Austin Code - Request Code Officer,0.0072821008538746634
+2019,Austin Code - Short Term Rental Complaint SR,0.012994194083494609
+2019,Lane/Road Closure Notification,0.021719457013574681
+2019,Loud Commercial Music,0.41649782923299561
+2019,EV PIP Residential Rebate,0.50000000000000011
+2019,ARR Dead Animal Collection,0.53735955056179774
+2019,Traffic Calming,0.5588865096359743
+2019,Parking Violation Enforcement,0.68930390492359928
+2019,Traffic Signal - Dig Tess Request,0.83614232209737849
+2019,Street Lights New,0.92507204610951022
+2019,Parking Permit- ROW,1.1904761904761905
+2019,Filming Permit - ROW,1.2857142857142858
+2019,Austin Code - Short Term Rental (STR) Appointment,1.3260869565217392
+2019,ARR Missed Yard Trimmings/Compost,1.380279739648248
+2019,Public Health - Environmental Services - County,1.4482758620689655
+2019,Vendor Permit - ROW,1.5652173913043477
+2019,Sign - Traffic Sign Emergency,1.6404077849860983
+2019,Shared Micromobility,1.6451612903225807
+2019,Public Health - Environmental Services - City,1.729776247848537
+2019,Parking Machine Issue,1.7339682539682542
+2019,ARR Missed Recycling,1.8380232395352092
+2019,Dockless Mobility,1.8958888465930721
+2019,WPD - Flooding Current,2.0
+2019,Found Animal Report - Keep,2.0344403444034445
+2019,Construction/Permitting- ROW,2.1363636363636367
+2019,Newspaper Rack- ROW,2.285714285714286
+2019,ARR Brush and Bulk,2.9837398373983737
+2019,Valet Permit - ROW,3.0
+2019,Sign - Parking Sign Maintenance,3.629107981220657
+2019,Traffic Signal - Maintenance,4.1142964918898519
+2019,Sign - Traffic Sign Maintenance,4.1743119266055047
+2019,Residential Parking Permit Enforcement,4.1851851851851869
+2019,Utility Coordination - ROW,5.0
+2019,ARR Street Sweeping,5.4117647058823515
+2019,Park Maintenance - Cemeteries,6.129032258064516
+2019,Park Maintenance - Building Electrical Issues,6.2068965517241379
+2019,ATD - Booting Complaint,6.2500000000000018
+2019,Construction items in ROW,6.5555555555555554
+2019,Park Maintenance - Grounds,6.6377345844504028
+2019,Street Light Issue- Address,6.6849292530437658
+2019,Park Maintenance - Grounds Plumbing Issues,6.8744075829383879
+2019,Sign - School Zone Sign Maintenance,7.0131578947368425
+2019,Construction Items in ROW,7.57930449533503
+2019,Park Maintenance - Grounds Electrical Issues,7.5878378378378377
+2019,Park Maintenance - Building Plumbing Issues,7.6153846153846159
+2019,Park Maintenance - Building A/C & Heating Issues,7.6385542168674707
+2019,Park Maintenance - Building Issues,7.7900000000000009
+2019,Park Maintenance - Pool Issues,7.8388059701492541
+2019,Mowing City Parks,8.1619433198380573
+2019,Concerns in the ROW,8.1873920552677042
+2019,Aquatics Hotline Inquiry,8.208955223880599
+2019,WPD - Flooding Past,9.0
+2019,Water Theft Report,9.8103448275862064
+2019,School Zone Flasher - Timing/Maintenance,10.378973105134474
+2019,Street Light Issue- Multiple poles/multiple streets,10.577854671280278
+2019,Sign - Street Name,11.010964912280702
+2019,View Obstruction at Intersection,11.619565217391306
+2019,Coyote Complaints,14.450931677018634
+2019,Animal Roadside Sales,14.777777777777779
+2019,EV PIE Station Issues,15.545454545454545
+2019,AW - Water Theft Report,16.071428571428573
+2019,Animal In Vehicle,16.847058823529412
+2019,AW - Water Waste Report,17.307291666666664
+2019,Injured / Sick Animal,17.837172218284906
+2019,Wildlife Exposure,18.267774086378736
+2019,Sidewalk/Curb Ramp/Route - NEW,18.742603550295861
+2019,Traffic Engineering - General,19.265486725663717
+2019,Found Animal - Pick Up,19.730030333670374
+2019,Loose Dog,19.740244612696561
+2019,Animal - Proper Care,21.676333505955466
+2019,Animal Trapped in Storm Drain,22.15
+2019,Animal Bite,22.220578345662407
+2019,Road Markings/Striping - New,23.078378378378378
+2019,Dangerous/Vicious Dog Investigation,23.288590604026844
+2019,Loose Animal Not Dog,23.382716049382715
+2019,Animal Control - Assistance Request,23.722396129766651
+2019,Traffic Signal - New/Change,24.892672858617129
+2019,Public Health - Graffiti Abatement,24.919141323792484
+2019,School Zone - New/Review/Changes,27.687500000000004
+2019,Water Waste Report,28.199625117150887
+2019,School Issues - Crossing Guards,28.222222222222225
+2019,Sign - New,28.226979472140766
+2019,Bicycle Issues,28.838056680161941
+2019,Speed Limit - Changes/Signs,29.717948717948726
+2019,Standing Water,66.4
+2019,Road Markings/Striping - Maintenance,76.417033773861974
+2019,Ditch/Driveway Pipe Services,81.792682926829272
+2019,Town Lake Debris Issues,87.125
+2019,Flooding - Past,89.166666666666657
+2019,Channels/Creeks/Drainage Easement,105.41575492341354
+2019,Neighborhood Home Programs,109.10909090909091
+2019,AFD - Wildfire Concern / Presentation,119.45945945945945
+2019,Creek & Pond Vegetation Control,120.20963855421687
+2019,Mowing Medians,128.50694444444443
+2019,Storm Drain Pipe Services,128.52054794520546
+2019,Roadway Spillage,129.09756097560975
+2019,Debris in Street,132.22548659566655
+2019,Flooding  Current (Non-Emergency),134.14619883040933
+2019,Pothole Repair,134.57556109725681
+2019,Sidewalk Repair,146.80936675461743
+2019,Lost Item in Storm Drainage System,158.06467661691539
+2019,Pavement Failure,159.87200832466183
+2019,Curb/Gutter Repair,160.03030303030303
+2019,Guardrail New/Repair,167.03571428571431
+2019,Tree Issue ROW,170.03988216632675
+2019,Obstruction in ROW,180.08197747183979
+2019,Bridge Repair,185.40000000000003
+2019,Fence/Wall Repair,201.09090909090907
+2019,Alley & Unpaved Street Maintenance,212.1141649048626
+2019,Street Resurfacing,225.89097744360902
+2019,APD - Vehicle Abatement Callback Request,992.33333333333337
+2019,APD - Vehicle Abatement Report,1033.6451612903227
+2019,AW - Water Conservation Violation,1045.1122994652405
+2019,Pet Resource Center - Assistance Request,1157.5714285714287
+2019,Animal Protection - Coyote Complaints,1321.0
+2019,Animal Protection - Found Animal Assistance,1434.5
+2019,Animal Protection - Animal Proper Care,1449.5
+2019,Animal Protection - Dangerous Dog Complaint,1471.0
+2019,Animal Protection - Assistance Request,1481.5454545454547
+2019,Animal Protection - Loose Animal Not Dog,1502.0
+2019,Animal Protection - Injured/Sick Animal,1506.0
+2019,Animal Protection - Wildlife Exposure,1508.0
+2019,Animal Protection - Loose Dog,1539.0
+2019,Animal Protection - Animal Bite,1590.0
+2019,CPIO - Community Voices,1616.3333333333333
+2020,ZZ Community Connections - Coronavirus,0.0
+2020,Traffic Calming,0.0
+2020,Austin Code - Short Term Rental (STR) Appointment,0.0
+2020,HSEM Heat Advisory,0.0
+2020,Austin Code - Short Term Rental Complaint SR,0.0022624434389140269
+2020,Austin Code - Signs/Billboards,0.0054347826086956529
+2020,Lane/Road Closure Notification,0.0091397849462365611
+2020,Austin Code - Construction Rest Break Complaint,0.078431372549019579
+2020,Austin Code - Request Code Officer,0.087474431476356626
+2020,ARR Dead Animal Collection,0.35423100679431752
+2020,Park Maintenance - Cemeteries,0.391304347826087
+2020,EV PIE Station Issues,0.4
+2020,Loud Commercial Music,0.48263433813892542
+2020,Park Maintenance - Grounds,0.50486405587428285
+2020,Traffic Signal - Dig Tess Request,0.51369863013698625
+2020,Park Maintenance - Building Plumbing Issues,0.55555555555555558
+2020,Park Maintenance - Grounds Plumbing Issues,0.56927710843373491
+2020,Park Maintenance - Grounds Electrical Issues,0.58974358974358976
+2020,Park Maintenance - Building Issues,0.60377358490566035
+2020,Park Maintenance - Pool Issues,0.65517241379310354
+2020,Park Maintenance - Building Electrical Issues,0.78947368421052633
+2020,Park Maintenance - Building A/C & Heating Issues,0.83333333333333326
+2020,Austin Code - Coronavirus,0.898360655737705
+2020,Newspaper Rack- ROW,0.92307692307692313
+2020,Parking Violation Enforcement,1.0068068068068066
+2020,Filming Permit - ROW,1.1333333333333335
+2020,Community Connections - Coronavirus,1.1841477949940402
+2020,Sign - Traffic Sign Emergency,1.2717391304347825
+2020,ARR Missed Yard Trimmings/Compost,1.2988083164300204
+2020,Parking Permit- ROW,1.4666666666666663
+2020,Found Animal Report - Keep,1.5876089060987415
+2020,Sign - Parking Sign Maintenance,1.6967930029154519
+2020,Valet Permit - ROW,1.8
+2020,Street Lights New,1.8350168350168348
+2020,ARR Brush and Bulk,1.8939256572982774
+2020,Construction/Permitting- ROW,1.9999999999999996
+2020,Mowing City Parks,2.0190114068441063
+2020,Sign - Traffic Sign Maintenance,2.054555084745763
+2020,ARR Street Sweeping,2.1649484536082473
+2020,ARR Missed Recycling,2.2577112203844432
+2020,Public Health - Environmental Services - City,2.6136738056013185
+2020,Parking Machine Issue,2.6865671641791042
+2020,Traffic Signal - Maintenance,2.9662288930581613
+2020,Shared Micromobility,3.2255508789304281
+2020,School Zone Flasher - Timing/Maintenance,3.628834355828221
+2020,ATD - Booting Complaint,3.6888888888888896
+2020,Vendor Permit - ROW,4.0000000000000009
+2020,Concerns in the ROW,4.409448818897638
+2020,Sign - School Zone Sign Maintenance,4.583333333333333
+2020,Construction Items in ROW,4.5882978723404255
+2020,AW - Water Waste Report,5.2069754145225842
+2020,Sign - Street Name,6.236
+2020,Wildlife Exposure,8.1479853479853475
+2020,Animal - Proper Care,8.5499390986601718
+2020,Found Animal - Pick Up,8.828880407124684
+2020,Street Light Issue- Address,9.51456489675516
+2020,View Obstruction at Intersection,9.8482142857142847
+2020,Street Light Issue- Multiple poles/multiple streets,10.571428571428571
+2020,Public Health - Environmental Services - County,10.610169491525426
+2020,Loose Dog,11.124409023368905
+2020,School Issues - Crossing Guards,11.428571428571427
+2020,Traffic Signal - New/Change,11.642857142857142
+2020,Animal Control - Assistance Request,11.699206734660839
+2020,Animal Trapped in Storm Drain,12.484848484848486
+2020,Injured / Sick Animal,12.646345305608065
+2020,AFD - Wildfire Concern / Presentation,12.740740740740744
+2020,Emergency Vehicle Preemption Device,13.5
+2020,Neighborhood Home Programs,13.618421052631579
+2020,Animal In Vehicle,13.659235668789808
+2020,School Zone - New/Review/Changes,14.172413793103448
+2020,Animal Bite,15.41287613715885
+2020,Loose Animal Not Dog,15.757452574525745
+2020,Traffic Engineering - General,17.360341151385924
+2020,Dangerous/Vicious Dog Investigation,17.373250388802489
+2020,Coyote Complaints,18.09912536443149
+2020,Sidewalk/Curb Ramp/Route - NEW,21.074509803921568
+2020,Aquatics Hotline Inquiry,21.545454545454543
+2020,Sign - New,22.0473321858864
+2020,Road Markings/Striping - New,22.617647058823529
+2020,Speed Management,22.784883720930232
+2020,Speed Limit - Changes/Signs,25.258928571428566
+2020,AW - Water Theft Report,32.283018867924525
+2020,Public Health - Graffiti Abatement,45.394147398843934
+2020,Animal Roadside Sales,49.117647058823536
+2020,Residential Parking Permit Enforcement,53.291666666666657
+2020,Standing Water,77.622377622377613
+2020,Road Markings/Striping - Maintenance,80.2251655629139
+2020,Bicycle Issues,81.666666666666686
+2020,Flooding  Current (Non-Emergency),83.070640176600449
+2020,Lost Item in Storm Drainage System,111.66123778501628
+2020,Storm Drain Pipe Services,119.22807017543859
+2020,Flooding - Past,121.46448087431693
+2020,Town Lake Debris Issues,137.33333333333331
+2020,Ditch/Driveway Pipe Services,139.81333333333333
+2020,Channels/Creeks/Drainage Easement,148.50661241098678
+2020,Creek & Pond Vegetation Control,162.01459854014593
+2020,Roadway Spillage,162.81355932203391
+2020,Pothole Repair,172.08590761988816
+2020,Debris in Street,172.93026101141922
+2020,SBO - Pavement Failure,180.0
+2020,Sidewalk Repair,180.86466165413535
+2020,WPD - Flooding Current,181.0
+2020,ZZ - Tree Issue ROW,181.0
+2020,WPD - Flooding Past,182.0
+2020,Fence/Wall Repair,182.71428571428572
+2020,Pavement Failure,188.80376028202116
+2020,Bridge Repair,190.23333333333335
+2020,Mowing Medians,190.4301075268817
+2020,Tree Issue ROW,196.5948446794448
+2020,Alley & Unpaved Street Maintenance,205.21194029850744
+2020,Guardrail New/Repair,208.65
+2020,Curb/Gutter Repair,214.32768361581924
+2020,Street Resurfacing,218.84831460674158
+2020,Obstruction in ROW,225.97953736654804
+2020,Flooding Current (Non-Emergency),233.08333333333331
+2020,WPD - Erosion,235.0
+2020,WPD - Channels/Creek/Drainage Issues,273.0
+2020,ARR - On Call Bulk,498.0
+2020,APD - Non Emergency Collision,532.0
+2020,ATD - Special Event,532.0
+2020,Pet Resource Center - Assistance Request,600.625
+2020,AW - Water Conservation Violation,602.70400000000006
+2020,AFD - Wildfire Education,614.69999999999993
+2020,APD - Vehicle Abatement Callback Request,637.94444444444446
+2020,APD - Vehicle Abatement Report,682.88888888888891
+2020,APH - Graffiti Abatement - Public Property,703.51778656126487
+2020,Animal Protection - Found Animal Assistance,1012.4285714285713
+2020,Animal Protection - Coyote Complaints,1033.5
+2020,Animal Protection - Wildlife Exposure,1040.5
+2020,Animal Protection - Dangerous Dog Complaint,1052.5
+2020,Animal Protection - Animal Proper Care,1057.6666666666667
+2020,Animal Protection - Injured/Sick Animal,1129.1538461538462
+2020,Animal Protection - Animal Bite,1180.8333333333333
+2020,Animal Protection - Assistance Request,1202.2222222222222
+2020,Animal Protection - Loose Dog,1235.0769230769231
+2020,CPIO - Community Voices,1264.3888888888889
+2021,Lane/Road Closure Notification,0.0
+2021,HSEM Heat Advisory,0.0
+2021,ZZZ - DO NOT USE - ERM - Harmful Algae,0.0
+2021,DSD - Request Code Officer,0.0
+2021,SBO - Pothole Repair,0.0
+2021,CPIO - Community Engagement Project Feedback,0.0
+2021,Public Health - Environmental Services - County,0.40740740740740744
+2021,Loud Commercial Music,0.44699431356620639
+2021,Traffic Signal - Dig Tess Request,0.46441605839416067
+2021,Valet Permit - ROW,0.5
+2021,Austin Code - Construction Rest Break Complaint,0.6
+2021,HPD - Neighborhood Home Programs,0.66666666666666674
+2021,Animal Roadside Sales,0.73076923076923062
+2021,Mowing City Parks,0.768421052631579
+2021,Park Maintenance - Pool Issues,0.76923076923076916
+2021,ARR Dead Animal Collection,0.77929403202328962
+2021,ATD - Parking Violation Enforcement,0.92553191489361686
+2021,Park Maintenance - Grounds Plumbing Issues,1.0303030303030303
+2021,Park Maintenance - Grounds Electrical Issues,1.0631229235880397
+2021,Park Maintenance - Grounds,1.285286232455449
+2021,Filming Permit - ROW,1.375
+2021,Animal In Vehicle,1.4215116279069768
+2021,Construction/Permitting- ROW,1.6346153846153846
+2021,Sign - Parking Sign Maintenance,1.7125645438898451
+2021,Sign - Traffic Sign Emergency,1.7831168831168833
+2021,ATD - Parking Sign Maintenance,1.8642533936651584
+2021,Shared Micromobility,1.9231802309965087
+2021,Newspaper Rack- ROW,2.0
+2021,ARR Missed Yard Trimmings/Compost,2.1839726547664258
+2021,ARR Missed Recycling,2.2098871442590782
+2021,Vendor Permit - ROW,2.3076923076923075
+2021,Park Maintenance - Building A/C & Heating Issues,2.3913043478260869
+2021,Parking Permit- ROW,2.5
+2021,ARR Street Sweeping,3.0586206896551724
+2021,Sign - Traffic Sign Maintenance,3.1228070175438596
+2021,Parking Violation Enforcement,3.2699151382425393
+2021,AFD - Wildfire Concern / Presentation,3.3428571428571425
+2021,Park Maintenance - Cemeteries,3.4782608695652169
+2021,AW - Water Waste Report,3.517287831163
+2021,ZZZ ARR Brush and Bulk,3.6037735849056607
+2021,Parking Machine Issue,3.7902702702702697
+2021,Loose Animal Not Dog,3.8176291793313069
+2021,Traffic Signal - Maintenance,3.8294963305519265
+2021,ATD - Booting Complaint,4.0252100840336142
+2021,Sign - School Zone Sign Maintenance,4.0370370370370363
+2021,Wildlife Exposure,4.2243713733075436
+2021,School Zone Flasher - Timing/Maintenance,4.2398452611218573
+2021,Concerns in the ROW,4.38758231420508
+2021,ARR Brush and Bulk,4.4943717675692119
+2021,ZZZ ARR Missed Recycling,5.0196078431372548
+2021,Construction Items in ROW,5.049265341400174
+2021,Austin Code - Coronavirus,5.138440860215054
+2021,Sign - Street Name,5.3731884057971016
+2021,ZZZ ARR Missed Yard Trimmings/Compost,5.6410256410256405
+2021,Community Connections - Coronavirus,5.7374031007751949
+2021,Neighborhood Home Programs,5.7434210526315788
+2021,ATD - Shared Micromobility,5.9025952140208995
+2021,Injured / Sick Animal,6.1625747560591755
+2021,Austin Code - Signs/Billboards,6.36026936026936
+2021,Animal - Proper Care,6.4337294332723944
+2021,Aquatics Hotline Inquiry,6.9999999999999991
+2021,Corridor Program Office - Corridor Feedback,7.6
+2021,311 CRIS - City Vehicle Report,7.6470588235294112
+2021,Animal Control - Assistance Request,8.3325610408126884
+2021,Found Animal - Pick Up,8.40232945091514
+2021,Austin Code - Request Code Officer,8.45523289807055
+2021,School Issues - Crossing Guards,8.5185185185185173
+2021,Lost Item in Storm Drainage System,8.5211267605633836
+2021,Found Animal Report - Keep,8.7265258215962458
+2021,Public Health - Environmental Services - City,9.120267260579066
+2021,Animal Trapped in Storm Drain,9.9942857142857129
+2021,View Obstruction at Intersection,10.131926121372031
+2021,Public Health - Graffiti Abatement,10.234226055379027
+2021,School Zone - New/Review/Changes,10.583333333333332
+2021,Loose Dog,10.586470806073327
+2021,Sidewalk/Curb Ramp/Route - NEW,10.996309963099629
+2021,Austin Code - Short Term Rental Complaint SR,12.439704209328783
+2021,Flooding  Current (Non-Emergency),12.456185567010307
+2021,EV PIE Station Issues,13.375
+2021,Animal Bite,13.504881450488147
+2021,Street Lights New,13.573394495412847
+2021,Dangerous/Vicious Dog Investigation,15.650887573964495
+2021,Traffic Signal - New/Change,15.67228177641654
+2021,Street Light Issue- Address,15.685697808535179
+2021,ZZZ ARR Street Sweeping,16.333333333333336
+2021,Park Maintenance - Building Issues,16.531645569620252
+2021,Street Light Issue- Multiple poles/multiple streets,18.603238866396762
+2021,WPD - Ditch/Driveway Pipe Services,19.0
+2021,Traffic Engineering - General,19.319875776397517
+2021,Park Maintenance - Building Plumbing Issues,21.762430939226519
+2021,Sign - New,22.777528089887646
+2021,Road Markings/Striping - New,22.931330472103006
+2021,Speed Limit - Changes/Signs,26.647058823529409
+2021,Speed Management,29.049004594180708
+2021,Park Maintenance - Building Electrical Issues,29.904761904761909
+2021,Austin Code - Short Term Rental (STR) Appointment,33.666666666666664
+2021,Coyote Complaints,35.51306413301662
+2021,Flooding Current (Non-Emergency),38.875647668393782
+2021,ERM - Harmful Algae,39.230769230769234
+2021,ZZZ ARR Dead Animal Collection,43.529411764705884
+2021,Road Markings/Striping - Maintenance,52.047080979284374
+2021,ATD - Pay-by-Phone App,54.972972972972983
+2021,AW - Water Conservation Violation,55.976744186046517
+2021,SBO - Sidewalk Repair,63.0
+2021,Standing Water,63.6607142857143
+2021,Storm Drain Pipe Services,71.285714285714263
+2021,Flooding - Past,84.690566037735849
+2021,Bicycle Issues,86.515873015873026
+2021,Bridge Repair,98.81578947368422
+2021,Ditch/Driveway Pipe Services,100.92682926829268
+2021,Channels/Creeks/Drainage Easement,104.27358490566037
+2021,Creek & Pond Vegetation Control,109.42649006622516
+2021,Fence/Wall Repair,110.5
+2021,Street Resurfacing,110.69863013698628
+2021,Sidewalk Repair,116.96231003039513
+2021,Debris in Street,119.62574730968514
+2021,Pothole Repair,127.44593622632463
+2021,Obstruction in ROW,129.22506393861894
+2021,Pavement Failure,131.57788944723615
+2021,AW - Water Theft Report,132.1917808219178
+2021,Alley & Unpaved Street Maintenance,135.1519337016575
+2021,Tree Issue ROW,135.42459222082815
+2021,Guardrail New/Repair,139.44961240310076
+2021,Roadway Spillage,140.5
+2021,Curb/Gutter Repair,148.83783783783784
+2021,AFD - Wildfire Education,152.61538461538461
+2021,Town Lake Debris Issues,153.31250000000003
+2021,Mowing Medians,158.55426356589146
+2021,Residential Parking Permit Enforcement,159.25
+2021,ARR - General,167.57142857142858
+2021,ARR - Property Damage Report,182.0
+2021,TARA - Telecommunication Complaint,185.23376623376623
+2021,APH - Community Connections Coronavirus,212.0
+2021,APD - Non Emergency Collision,231.40476190476193
+2021,ATD - Special Event,253.33333333333331
+2021,AE Street Light Issue - Address,304.16666666666669
+2021,APD - Vehicle Abatement Report,310.68292682926824
+2021,APH - Graffiti Abatement - Public Property,326.81194690265488
+2021,APD - Vehicle Abatement Callback Request,344.33112582781462
+2021,WPD - Watershed Grow Zone Issues,366.0
+2021,WPD - Standing Water,386.4
+2021,Pet Resource Center - Assistance Request,393.94444444444446
+2021,WPD - Channels/Creek/Drainage Issues,416.22807017543863
+2021,ZZ Creek &amp; Pond Vegetation Control,422.0
+2021,WPD - Drainage Pond Maintenance,424.75409836065575
+2021,WPD - Flooding Past,444.66666666666669
+2021,ARR - On Call Bulk,445.0
+2021,ZZ Creek & Pond Vegetation Control,507.7
+2021,Animal Protection - Found Animal Assistance,538.76470588235293
+2021,WPD - Flooding Current,546.81818181818187
+2021,WPD - Erosion,591.75
+2021,ATD - Traffic Signal - New/Modification,654.0
+2021,Animal Protection - Dangerous Dog Complaint,668.0
+2021,Animal Protection - Loose Dog,684.142857142857
+2021,Animal Protection - Assistance Request,701.33333333333326
+2021,CPIO - Community Voices,748.625
+2021,Animal Protection - Injured/Sick Animal,800.5
+2021,Animal Protection - Wildlife Exposure,815.5
+2021,Animal Protection - Animal Bite,836.5
+2021,Animal Protection - Animal Proper Care,860.42857142857144
+2021,Animal Protection - Loose Animal Not Dog,897.0
+2021,Animal Protection - Vicious Dog Complaint,918.0
+2021,Animal Protection - Animal In Vehicle,1028.0
+2022,ZZ ATD - Parking Machine Issue,0.0
+2022,ATD - Lane/Road Closure Notification,0.0
+2022,Austin Code - Construction Rest Break Complaint,0.0
+2022,AFD - Fireworks Complaint,0.0
+2022,Austin Code - Short Term Rental (STR) Appointment,0.0
+2022,ACD - Construction Rest Break Complaint,0.0
+2022,Fence/Wall Repair,0.0
+2022,ARR Dead Animal Collection,0.0
+2022,ZZ AFD - Fireworks Complaint,0.0
+2022,ZZ ARR - On Call Brush,0.0
+2022,SBO - Roadway Spillage,0.0
+2022,ACD - Request Code Officer,0.0
+2022,ZZ CRM - Configuration Test Waheed,0.0
+2022,ZZ CRM - Configuration Test Francois,0.0
+2022,Lane/Road Closure Notification,0.0017391304347826094
+2022,AE - Key Accounts,0.04
+2022,ARR - Dead Animal Collection,0.0684138869979578
+2022,ACD - Short Term Rental Complaint,0.069767441860465129
+2022,Austin Code - Short Term Rental Complaint SR,0.0706521739130435
+2022,Austin Code - Signs/Billboards,0.09195402298850576
+2022,311 CC - Other,0.11910994764397909
+2022,Zz_Loud Commercial Music,0.16401124648547336
+2022,Austin Code - Request Code Officer,0.17160274979463011
+2022,ATD - Parking Violation Enforcement,0.18149569246362127
+2022,DSD - Outdoor Commercial Venue Music Complaint,0.36188271604938277
+2022,APD - Non Emergency Hands Free Violation,0.5
+2022,Loud Commercial Music,0.52682926829268284
+2022,ARR - General,0.5349875930521093
+2022,Traffic Signal - Dig Tess Request,0.55308641975308648
+2022,APH - Environmental Health Services - County,0.5714285714285714
+2022,Animal Trapped in Storm Drain,0.61151079136690656
+2022,DSD - Follow-Up,0.71091205211726394
+2022,Sign - Traffic Sign Emergency,0.78803418803418812
+2022,Animal Roadside Sales,0.8
+2022,Lost Item in Storm Drainage System,0.8283261802575107
+2022,Community Connections - Coronavirus,0.84873949579831931
+2022,ATD - Dig Tess Request,0.85655737704918034
+2022,ATD - Traffic Sign Emergency,0.90243902439024382
+2022,Sign - School Zone Sign Maintenance,0.94736842105263153
+2022,Found Animal Report - Keep,1.082304526748971
+2022,ATD - Booting Complaint,1.082926829268293
+2022,ACD - Case Updates/Code Connect Messages,1.1013513513513513
+2022,Sign - Traffic Sign Maintenance,1.1074120603015076
+2022,ATD - School Zone Sign Maintenance,1.1355932203389829
+2022,ZZ - AFD - Fireworks Complaint,1.3623978201634876
+2022,ATD - Parking Sign Maintenance,1.696188340807175
+2022,ATD - Special Event,1.8571428571428572
+2022,ATD - Concerns in Right of Way,1.9808000000000003
+2022,Flooding Current (Non-Emergency),1.9965986394557824
+2022,Valet Permit - ROW,2.0
+2022,APH - Environmental Health Services - City,2.0033500837520943
+2022,ATD - Shared Micromobility,2.0073105040400154
+2022,Parking Machine Issue,2.4069767441860468
+2022,ARR - Street Sweeping,2.4683257918552037
+2022,Roadway Spillage,2.4893617021276597
+2022,Animal In Vehicle,2.5045317220543803
+2022,Corridor Program Office - Corridor Feedback,2.5206611570247937
+2022,HPD - Neighborhood Home Programs,2.588888888888889
+2022,Sidewalk/Curb Ramp/Route - NEW,2.6788321167883207
+2022,ARR - Compost,2.730862031147181
+2022,Pothole Repair,2.8114006514657977
+2022,Found Animal - Pick Up,3.0578715056400205
+2022,ZZ ARR - Storm Debris Collection,3.1000000000000005
+2022,Sign - Street Name,3.1785714285714279
+2022,Debris in Street,3.3372422159320667
+2022,DSD - Environmental Complaint,3.4652615144418419
+2022,Animal - Proper Care,3.5179185076092288
+2022,ARR - Bulk,3.521551724137931
+2022,Construction/Permitting- ROW,3.5555555555555554
+2022,Standing Water,3.61
+2022,Wildlife Exposure,3.610301263362488
+2022,Construction Items in ROW,3.6459330143540676
+2022,AW - Water Conservation Violation,3.7236954662104371
+2022,Injured / Sick Animal,3.8672402159244279
+2022,Traffic Signal - Maintenance,3.8711507293354943
+2022,WPD - Lost Item in Storm Drainage System,3.8879310344827585
+2022,Parking Permit- ROW,4.0
+2022,Animal Control - Assistance Request,4.0738268608414252
+2022,ARR - Property Damage Report,4.2810810810810818
+2022,AFD - Wildfire Education,4.304347826086957
+2022,ATD - Parking Machine Issue,4.4124293785310726
+2022,Town Lake Debris Issues,4.4285714285714288
+2022,Public Health - Environmental Services - City,4.5
+2022,School Zone Flasher - Timing/Maintenance,4.6555323590814188
+2022,ARR - Recycling,5.1860823607134989
+2022,Loose Animal Not Dog,5.1990049751243781
+2022,Concerns in the ROW,5.4480519480519476
+2022,ATD - Traffic Sign Maintenance,5.7124337065409536
+2022,ATD - Construction Items in Right of Way,5.7704918032786887
+2022,SBO - New Sidewalk/Curb Ramp/Route,5.78125
+2022,ARR - Spillage Trash/Fluids,6.0898203592814379
+2022,Pet Resource Center - Assistance Request,6.1276287164612047
+2022,Public Health - Graffiti Abatement,6.1414141414141419
+2022,Pet Resource Center - Found Pet Report,6.1526315789473678
+2022,ARR - Storm Debris Collection,6.25
+2022,ATD - Street Name Sign Maintenance,6.2535211267605639
+2022,Pavement Failure,6.4904371584699465
+2022,APH - Community Connections Coronavirus,6.56
+2022,Public Health - Environmental Services - County,6.7037037037037059
+2022,Ditch/Driveway Pipe Services,6.7600000000000007
+2022,311 CRIS - City Vehicle Report,6.9372197309417043
+2022,ZZZ - Storm Drain Pipe Services,7.0
+2022,Alley & Unpaved Street Maintenance,7.0295202952029525
+2022,AE Street Light Issue - No Address,7.065384615384616
+2022,Creek & Pond Vegetation Control,7.1899999999999995
+2022,ARR - Pet Search,7.2839506172839519
+2022,AE Street Light Issue - Address,7.2947088383091927
+2022,Flooding - Past,7.481481481481481
+2022,ARR - Garbage,7.5051647811116595
+2022,Channels/Creeks/Drainage Easement,7.596100278551531
+2022,ARR - Brush,7.606958762886598
+2022,Loose Dog,7.6615093893941184
+2022,School Zone - New/Review/Changes,8.35483870967742
+2022,ATD - Bicycle &amp; Pedestrian Issues,8.5161290322580641
+2022,Park Maintenance - Cemeteries,8.5348837209302335
+2022,AE - Electric Vehicle Station Issues,8.8666666666666654
+2022,WPD - Ditch/Driveway Pipe Services,9.4901960784313761
+2022,Street Light Issue- Address,9.7165259348612754
+2022,ATD - School Zone Beacon - Maintenance,9.7333333333333343
+2022,Austin Code - Coronavirus,9.9047619047619051
+2022,School Issues - Crossing Guards,10.466666666666667
+2022,Sidewalk Repair,10.587657784011222
+2022,Bicycle Issues,10.844192634560908
+2022,HSEM - Heat Advisory,11.166666666666666
+2022,Tree Issue ROW,11.825170489770613
+2022,Animal Bite,12.018382352941178
+2022,CPIO - Community Engagement Project Feedback,12.5
+2022,View Obstruction at Intersection,13.013201320132014
+2022,Storm Drain Pipe Services,13.047619047619047
+2022,PW - School Issues - Crossing Guards,13.30952380952381
+2022,Mowing Medians,13.41212121212121
+2022,Animal Services - Contact Request,13.665796344647518
+2022,Street Light Issue- Multiple poles/multiple streets,14.739130434782609
+2022,Obstruction in ROW,15.156045751633986
+2022,WPD - Storm Drain Services,15.666666666666666
+2022,Dangerous/Vicious Dog Investigation,16.272727272727273
+2022,PW - School Zone - New/Review/Changes,16.407407407407415
+2022,ATD - Speed Management,17.612595419847331
+2022,APD - Non Emergency Collision,17.623653449461383
+2022,WPD - Flooding Current,18.060498220640568
+2022,Curb/Gutter Repair,18.074324324324326
+2022,Animal Protection - Found Animal Assistance,18.168128654970761
+2022,Zzz_Speed Limit - Changes/Signs,18.6
+2022,Street Resurfacing,19.044176706827312
+2022,Aquatics Hotline Inquiry,19.2
+2022,Speed Management,20.017699115044248
+2022,Park Maintenance - Grounds,20.066423700916992
+2022,Traffic Engineering - General,20.769931662870153
+2022,ATD - Pay-by-Phone App,21.418604651162791
+2022,Sign - New,21.524262607040914
+2022,Traffic Signal - New/Change,22.508538899430739
+2022,Park Maintenance - Pool Issues,23.915966386554622
+2022,ZZ Park Maintenance - Pool Issues,24.294736842105259
+2022,Residential Parking Permit Enforcement,24.46153846153846
+2022,PARD - Commercial Use of Parkland,24.481481481481481
+2022,Coyote Complaints,24.961625282167045
+2022,Park Maintenance - Grounds Electrical Issues,25.755485893416932
+2022,WPD - Lady Bird Lake Debris Issues,25.888888888888889
+2022,Bridge Repair,25.999999999999996
+2022,ARR - On Call Brush,26.333333333333336
+2022,Road Markings/Striping - New,26.988636363636363
+2022,Speed Limit - Changes/Signs,27.564102564102562
+2022,WPD - Channels/Creek/Drainage Issues,27.930902111324375
+2022,EV PIE Station Issues,28.0
+2022,APD - Vehicle Abatement Report,28.362552327793988
+2022,PARD - Aquatic Inquiries/Issues,30.201923076923077
+2022,AW - Water Theft Report,30.494845360824741
+2022,ZZ Creek &amp; Pond Vegetation Control,30.924999999999997
+2022,ATD - Traffic Signal - New/Modification,32.596153846153854
+2022,ZZ Mowing City Parks,32.612903225806456
+2022,ARR - Special Services,32.966244725738392
+2022,Road Markings/Striping - Maintenance,34.090379008746361
+2022,WPD - Standing Water,34.863247863247871
+2022,WPD - Watershed Grow Zone Issues,35.833333333333329
+2022,Park Maintenance - Building Electrical Issues,36.39622641509434
+2022,ATD - Road Markings/Striping - New,38.597560975609753
+2022,Guardrail New/Repair,39.242187500000007
+2022,ERM - Harmful Algae,39.347826086956523
+2022,WPD - Flooding Past,40.54999999999999
+2022,ATD - Traffic Sign New,41.730870712401057
+2022,Park Maintenance - Grounds Plumbing Issues,42.935779816513758
+2022,Park Maintenance - Building Plumbing Issues,44.433427762039663
+2022,Zz_Traffic Engineering - General,45.695121951219512
+2022,Park Maintenance - Building Issues,45.869791666666671
+2022,Mowing City Parks,48.208333333333336
+2022,ATD - Road Markings/Striping - Maintenance,53.9440203562341
+2022,ARR - On Call Bulk,55.9119170984456
+2022,Park Maintenance - Building A/C & Heating Issues,56.202020202020194
+2022,ATD - Traffic Engineering - General,61.0
+2022,WPD - Drainage Pond Maintenance,63.476635514018696
+2022,APH - Graffiti Abatement - Public Property,66.562528630325247
+2022,APD - Vehicle Abatement Callback Request,69.608030592734224
+2022,SBO - Debris in Street,69.75
+2022,TARA - Telecommunication Complaint,70.82848837209302
+2022,SBO - Pavement Failure,90.75
+2022,SBO - Obstruction in Right of Way,91.499999999999986
+2022,WPD - Erosion,109.09523809523807
+2022,ARR - Household Hazardous Waste,112.5923076923077
+2022,SBO - Pothole Repair,121.27272727272728
+2022,SBO - Street Resurfacing,161.33333333333334
+2022,APD - Non Emergency Noise/Alarm,161.71428571428572
+2022,Animal Protection - Coyote Complaints,165.0
+2022,SBO - Street and Bridge Miscellaneous,189.77777777777777
+2022,Animal Protection - Animal In Vehicle,198.0
+2022,ZZ - Tree Issue ROW,236.6
+2022,Animal Protection - Dangerous Dog Complaint,250.4
+2022,ZZ Creek & Pond Vegetation Control,282.6875
+2022,SBO - Sidewalk Repair,294.5
+2022,Animal Protection - Assistance Request,352.08333333333337
+2022,Animal Protection - Wildlife Exposure,364.75000000000006
+2022,SBO - Guardrail New/Repair,376.0
+2022,Animal Protection - Loose Dog,376.54285714285714
+2022,Animal Protection - Animal Bite,382.15384615384608
+2022,Animal Protection - Loose Animal Not Dog,399.5
+2022,PARD - Aquatic Maintenance,421.0
+2022,Animal Protection - Vicious Dog Complaint,427.75
+2022,Animal Protection - Animal Proper Care,458.07692307692309
+2022,SBO - Utility Cut Repair,459.5
+2022,SBO - Bridge Repair,483.0
+2022,Animal Protection - Injured/Sick Animal,492.8235294117647
+2022,CPIO - Community Voices,577.90909090909088
+2023,ATD - Lane/Road Closure Notification,0.0
+2023,Austin Code - Signs/Billboards,0.0
+2023,Animal In Vehicle,0.0
+2023,DSD - Construction Rest Break Complaint,0.0
+2023,Fence/Wall Repair,0.0
+2023,ACD - Coronavirus,0.0
+2023,ZZ CRM - Configuration Test Francois,0.0
+2023,ZZAFD - Fireworks Complaint,0.0
+2023,DSD - Private Hauler License Violation,0.0
+2023,APD - Non Emergency Noise/Alarm,0.0099915166368177953
+2023,AFD - Fireworks Complaint,0.021739130434782615
+2023,ARR - Dead Animal Collection,0.055139346718609532
+2023,Animal Trapped in Storm Drain,0.06122448979591838
+2023,Austin Code - Request Code Officer,0.062333575405470833
+2023,311 CC - Other,0.0820304769443895
+2023,AE - Key Accounts,0.10958904109589043
+2023,DSD - Outdoor Commercial Venue Music Complaint,0.12253829321663022
+2023,ATD - Parking Violation Enforcement,0.16032012391893641
+2023,ARR - General,0.19470630891950691
+2023,ARR - Spillage Trash/Fluids,0.24965706447187927
+2023,ARR - Property Damage Report,0.25507246376811593
+2023,Animal Protection - Animal In Vehicle,0.32407407407407413
+2023,Pothole Repair,0.36760280842527587
+2023,Injured / Sick Animal,0.64030490709861843
+2023,ACD - Case Updates/Code Connect Messages,0.64539007092198575
+2023,Animal Roadside Sales,0.66666666666666674
+2023,APH - Community Connections Coronavirus,0.74999999999999989
+2023,APD - Non Emergency Hands Free Violation,0.76923076923076916
+2023,APH - Environmental Health Services - County,0.77586206896551713
+2023,Curb/Gutter Repair,0.78947368421052633
+2023,Animal Control - Assistance Request,0.79487179487179482
+2023,ATD - Traffic Sign Emergency,0.8302139037433155
+2023,ATD - Shared Micromobility,0.84089162182936228
+2023,APH - Health Equity Line,0.857142857142857
+2023,Loose Animal Not Dog,0.86503067484662577
+2023,ATD - Dig Tess Request,0.95067264573991039
+2023,Debris in Street,1.0328947368421053
+2023,Roadway Spillage,1.0476190476190477
+2023,Pavement Failure,1.0669144981412637
+2023,ZZ - AFD - Fireworks Complaint,1.0704845814977972
+2023,APH - Environmental Health Services - City,1.097849462365591
+2023,Wildlife Exposure,1.1413043478260869
+2023,Animal Protection - Animal Trapped in Storm Drain,1.1578947368421051
+2023,Street Resurfacing,1.2068965517241379
+2023,AFD - Wildfire Education,1.25
+2023,ATD - Concerns in Right of Way,1.2801583605030276
+2023,Sidewalk Repair,1.4317460317460318
+2023,ARR - Recycling,1.6134825829086956
+2023,Animal Protection - Injured/Sick Animal,1.6244459995334739
+2023,DSD - Environmental Complaint,1.677339901477833
+2023,311 CRIS - City Vehicle Report,1.7476635514018692
+2023,DSD - Case Updates/Code Connect Messages,1.75
+2023,AW - Water Conservation Violation,1.7637075718015667
+2023,ATD - School Zone Sign Maintenance,1.8080808080808082
+2023,Animal Protection - Animal Roadside Sales,1.8947368421052633
+2023,DSD - Follow-Up,1.9607006512463512
+2023,ACD - Private Hauler License Violation,2.0
+2023,Corridor Program Office - Corridor Feedback,2.0327868852459012
+2023,ATD - Parking Sign Maintenance,2.1194666666666668
+2023,Alley & Unpaved Street Maintenance,2.3145161290322576
+2023,ARR - Bulk,2.3369899078543219
+2023,ATD - Parking Machine Issue,2.3875878220140514
+2023,Coyote Complaints,2.4175824175824179
+2023,DSD - Billboard Complaint,2.5
+2023,Austin Code - Coronavirus,2.5
+2023,SBO - Pothole Repair,2.5061099796334014
+2023,Guardrail New/Repair,2.5272727272727273
+2023,Animal - Proper Care,2.6359999999999997
+2023,ATD - Construction Items in Right of Way,2.7171658986175116
+2023,Animal Services - Contact Request,2.754032258064516
+2023,Animal Protection - Loose Animal Not Dog,2.8568421052631581
+2023,Pet Resource Center - Assistance Request,2.8677839851024203
+2023,ARR - Street Sweeping,3.0765027322404368
+2023,Pet Resource Center - Found Pet Report,3.168586387434555
+2023,ATD - Traffic Sign Maintenance,3.1715963462374948
+2023,ARR - Compost,3.4750853242320825
+2023,SBO - Roadway Spillage,3.625
+2023,Animal Protection - Wildlife Exposure,3.8715231788079469
+2023,Tree Issue ROW,4.0102301790281336
+2023,Loose Dog,4.0586709886547814
+2023,ARR - Garbage,4.1000235017626316
+2023,ZZ AFD - Fireworks Complaint,4.2260795935647755
+2023,Animal Protection - Coyote Complaints,4.2397660818713447
+2023,Mowing Medians,4.3478260869565215
+2023,Animal Protection - Dog Restraint Issues,4.6083916083916083
+2023,WPD - Standing Water,4.6310160427807485
+2023,Animal Protection - Assistance Request,4.83691481197237
+2023,AE Street Light Issue - Address,4.9122834895916112
+2023,ATD - Special Event,5.1578947368421053
+2023,HPD - Neighborhood Home Programs,5.3333333333333339
+2023,SBO - Debris in Street,5.4060606060606053
+2023,Animal Protection - Animal Proper Care,5.5809786354238451
+2023,WPD - Lost Item in Storm Drainage System,5.6477987421383649
+2023,PW - Street & Bridge General,5.8000000000000007
+2023,ZZZ - Storm Drain Pipe Services,6.0
+2023,Animal Bite,6.0360360360360366
+2023,Dangerous/Vicious Dog Investigation,6.03921568627451
+2023,ARR - Pet Search,6.1901408450704229
+2023,HSEM - Heat Advisory,6.3636363636363633
+2023,ACD - Construction Rest Break Complaint,6.4838709677419342
+2023,Obstruction in ROW,6.6456211812627286
+2023,Traffic Signal - Maintenance,6.6740155623673676
+2023,Animal Protection - Found Animal Assistance,6.7864338482202822
+2023,WPD - Flooding Current,6.8274647887323958
+2023,AE Street Light Issue - No Address,7.0876404494382035
+2023,Corridor Program - Corridor Feedback,7.1875000000000009
+2023,Animal Protection - Loose Dog,7.280059622391521
+2023,SBO - Pavement Failure,7.737078651685394
+2023,SBO - Sidewalk Repair,7.830985915492958
+2023,SBO - Alley & Unpaved Street Maintenance,7.8666666666666671
+2023,ATD - Traffic Signal - Maintenance,7.96303317535545
+2023,PW - School Zone - New/Review/Changes,8.0555555555555554
+2023,ATD - School Zone Beacon - Maintenance,8.4543478260869573
+2023,ERM - Harmful Algae,8.6666666666666661
+2023,SBO - New Sidewalk/Curb Ramp/Route,8.90566037735849
+2023,PARD - Commercial Use of Parkland,9.0847457627118651
+2023,ATD - Traffic Signal - Modification,9.261904761904761
+2023,ACD - Billboard Complaint,9.2625
+2023,SBO - Utility Cut Repair,9.9591836734693864
+2023,SBO - Guardrail New/Repair,9.9891304347826075
+2023,Animal Protection - Dangerous Dog Complaint,10.019607843137253
+2023,ATD - Traffic Signal Maintenance,10.624526873580619
+2023,APD - Non Emergency Collision,10.894709216880118
+2023,Bridge Repair,10.9
+2023,AE - Electric Vehicle Station Issues,11.04469273743017
+2023,SBO - Curb/Gutter Repair,11.274336283185839
+2023,ATD - View Obstruction and Fencing at Intersection,11.353424657534246
+2023,View Obstruction at Intersection,11.375
+2023,AW - Water Theft Report,12.68
+2023,SBO - Street and Bridge Miscellaneous,13.478142076502733
+2023,ATD - Street Name Sign Maintenance,14.015845070422536
+2023,Animal Protection - Animal Bite,14.066159695817491
+2023,ATD - Booting Complaint,14.186851211072664
+2023,ACD - Request Code Officer,14.732246879334257
+2023,SBO - Street Resurfacing,15.61578947368421
+2023,ZZ Corridor Program - Corridor Feedback,15.666666666666668
+2023,ARR - Brush,17.255737704918033
+2023,PWD - Mowing Medians,17.44086021505376
+2023,APD - Vehicle Abatement Callback Request,18.013384321223711
+2023,SBO - Obstruction in Right of Way,18.064056939501778
+2023,Animal Protection - Vicious Dog Complaint,19.737662337662336
+2023,ACD - Short Term Rental Complaint,20.135371179039304
+2023,ATD - Speed Management,20.376842105263158
+2023,ATD - Bicycle &amp; Pedestrian Issues,20.452173913043477
+2023,CPIO - Community Engagement Project Feedback,20.941176470588236
+2023,SBO - Bridge Repair,21.121951219512194
+2023,WPD - Ditch/Driveway Pipe Services,21.210526315789476
+2023,WPD - Erosion,21.97058823529412
+2023,Storm Drain Pipe Services,22.0
+2023,WPD - Flooding Past,22.639344262295083
+2023,PWD - Tree Issue Right of Way,22.996497373029772
+2023,ATD - Traffic Signal - New/Modification,23.4310618066561
+2023,ARR - On Call Brush,23.481927710843379
+2023,PW - School Issues - Crossing Guards,23.95945945945946
+2023,ATD - Road Markings/Striping - New,24.323481116584563
+2023,WPD - Storm Drain Services,24.583999999999996
+2023,WPD - Lady Bird Lake Debris Issues,25.546391752577321
+2023,ATD - Bicycle & Pedestrian Issues,25.780487804878049
+2023,Park Maintenance - Building A/C & Heating Issues,28.363636363636363
+2023,APD - Vehicle Abatement Report,28.530207580295357
+2023,ATD - Pay-by-Phone App,29.063063063063058
+2023,ARR - On Call Bulk,29.108446298227321
+2023,Park Maintenance - Grounds Electrical Issues,29.305322128851536
+2023,Park Maintenance - Building A/C &amp; Heating Issues,30.307692307692307
+2023,Park Maintenance - Grounds,31.341216216216218
+2023,ATD - Traffic Sign New,31.896671289875179
+2023,ATD - Road Markings/Striping - Maintenance,34.068932038834944
+2023,WPD - Watershed Grow Zone Issues,34.516129032258057
+2023,ARR - Special Services,34.995714285714286
+2023,Zz_ARR - Storm Debris Collection,35.104619565217405
+2023,Park Maintenance - Building Plumbing Issues,35.776892430278878
+2023,ZZ Mowing Medians,38.93333333333333
+2023,PARD - Aquatic Inquiries/Issues,39.5
+2023,Park Maintenance - Grounds Plumbing Issues,39.658135283363791
+2023,ZZ - Tree Issue ROW,42.338235294117638
+2023,WPD - Channels/Creek/Drainage Issues,43.0265710670603
+2023,ATD - Traffic Signal - New,43.931818181818187
+2023,Park Maintenance - Building Electrical Issues,44.133333333333326
+2023,CPIO - Community Voices,45.071428571428569
+2023,WPD - Drainage Pond Maintenance,45.15300546448087
+2023,Park Maintenance - Building Issues,46.631578947368418
+2023,PARD - Aquatic Maintenance,53.509652509652504
+2023,TARA - Telecommunication Complaint,57.425641025641028
+2023,DSD - Short Term Rental Complaint,62.13333333333334
+2023,APH - Graffiti Abatement - Public Property,65.483610451306419
+2023,Park Maintenance - Cemeteries,65.75
+2023,DSD - Request Code Officer,72.237849779086886
+2023,ARR - Storm Debris Collection,77.280412503751947
+2023,ARR - Household Hazardous Waste,85.373493975903614
+2023,PARD - Aquatic Program Inquiries,86.193548387096769
+2024,311 CC - Other,0.0
+2024,ATD - Lane/Road Closure Notification,0.0
+2024,Animal Protection - Animal Roadside Sales,0.0
+2024,APH - Health Equity Line,0.0
+2024,ZZ CRM - Configuration Test Waheed,0.0
+2024,AE - Key Accounts,0.0
+2024,APD - Non Emergency Noise/Alarm,0.0010924981791697013
+2024,ARR - Dead Animal Collection,0.054006968641114983
+2024,ATD - Parking Violation Enforcement,0.06002638522427442
+2024,SBO - Alley & Unpaved Street Maintenance,0.11111111111111112
+2024,DSD - Outdoor Commercial Venue Music Complaint,0.12500000000000003
+2024,DSD - Follow-Up,0.14849187935034802
+2024,Animal Protection - Animal Trapped in Storm Drain,0.1818181818181818
+2024,SBO - Pothole Repair,0.1951219512195122
+2024,Animal Protection - Animal In Vehicle,0.2
+2024,SBO - Street and Bridge Miscellaneous,0.21839080459770116
+2024,ARR - Property Damage Report,0.23809523809523808
+2024,Animal Protection - Injured/Sick Animal,0.26447876447876445
+2024,SBO - Pavement Failure,0.28461538461538466
+2024,SBO - Utility Cut Repair,0.2857142857142857
+2024,SBO - Curb/Gutter Repair,0.35714285714285715
+2024,WPD - Lost Item in Storm Drainage System,0.36956521739130438
+2024,ATD - Dig Tess Request,0.39784946236559132
+2024,ARR - General,0.41324921135646686
+2024,Animal Protection - Loose Animal Not Dog,0.44
+2024,ATD - Shared Micromobility,0.48028391167192425
+2024,SBO - Debris in Street,0.50751879699248115
+2024,SBO - Street Resurfacing,0.54545454545454541
+2024,SBO - Sidewalk Repair,0.55652173913043479
+2024,Animal Protection - Wildlife Exposure,0.59183673469387765
+2024,SBO - Roadway Spillage,0.63636363636363635
+2024,ATD - Construction Concerns in Right of Way,0.73049645390070927
+2024,WPD - Flooding Current,0.75000000000000011
+2024,ATD - Traffic Sign Emergency,0.782051282051282
+2024,DSD - Environmental Complaint,0.79081632653061229
+2024,Animal Protection - Coyote Complaints,0.82352941176470584
+2024,SBO - Guardrail New/Repair,0.95000000000000018
+2024,DSD - Case Updates/Code Connect Messages,1.0
+2024,HPD - Neighborhood Home Programs,1.0
+2024,PARD - Commercial Use of Parkland,1.0
+2024,SBO - Bridge Repair,1.0
+2024,Park Maintenance - Building Electrical Issues,1.0
+2024,DSD - Construction Rest Break Complaint,1.0
+2024,ARR - Spillage Trash/Fluids,1.0599999999999998
+2024,APH - Environmental Health Services - City,1.1126760563380282
+2024,WPD - Storm Drain Services,1.1382978723404256
+2024,311 CRIS - City Vehicle Report,1.15
+2024,ATD - Traffic Signal - New,1.1500000000000001
+2024,APH - Environmental Health Services - County,1.1666666666666665
+2024,ATD - Construction Items in Right of Way,1.1944444444444446
+2024,APH - Community Connections Coronavirus,1.2
+2024,SBO - Obstruction in Right of Way,1.2196531791907514
+2024,ATD - Concerns in Right of Way,1.2283464566929132
+2024,PARD - Aquatic Maintenance,1.25
+2024,ATD - Parking Sign Maintenance,1.2709677419354839
+2024,DSD - Billboard Complaint,1.3333333333333333
+2024,APD - Vehicle Abatement Callback Request,1.3521126760563378
+2024,PWD - Mowing Medians,1.3846153846153846
+2024,Animal Services - Contact Request,1.4668192219679634
+2024,ATD - Traffic Sign Maintenance,1.5812672176308538
+2024,ATD - Parking Machine Issue,1.6133333333333333
+2024,Animal Protection - Animal Proper Care,1.6491228070175439
+2024,ARR - Street Sweeping,1.7168141592920354
+2024,ATD - School Zone Sign Maintenance,1.75
+2024,ARR - Recycling,1.7501639344262294
+2024,Animal Protection - Dog Restraint Issues,1.7727272727272727
+2024,AE Street Light Issue - No Address,1.7971014492753625
+2024,AW - Water Conservation Violation,1.8350515463917527
+2024,Animal Protection - Assistance Request,1.894915254237288
+2024,ARR - Brush,1.9634146341463412
+2024,ARR - Garbage,1.9660174057190221
+2024,ATD - Traffic Signal - Maintenance,1.978221415607986
+2024,Animal Protection - Loose Dog,2.0725720384204913
+2024,AE Street Light Issue - Address,2.1619365609348922
+2024,ARR - Bulk,2.17056856187291
+2024,ARR - Compost,2.3675918979744943
+2024,PW - School Issues - Crossing Guards,2.4
+2024,Park Maintenance - Grounds Electrical Issues,2.5161290322580649
+2024,PWD - Tree Issue Right of Way,2.592857142857143
+2024,Animal Protection - Found Animal Assistance,2.5942028985507246
+2024,APD - Non Emergency Collision,2.6996507566938304
+2024,Pet Resource Center - Found Pet Report,2.7325581395348841
+2024,Zz_ATD - Concerns in Right of Way,3.1428571428571432
+2024,ATD - Traffic Signal - Modification,3.1692307692307695
+2024,WPD - Watershed Grow Zone Issues,3.2
+2024,Park Maintenance - Grounds,3.2203791469194312
+2024,ARR - Pet Search,3.25
+2024,WPD - Ditch/Driveway Pipe Services,3.2727272727272725
+2024,HD - Neighborhood Home Programs,3.4000000000000004
+2024,Pet Resource Center - Assistance Request,3.4301886792452834
+2024,DSD - Request Code Officer,3.6028037383177574
+2024,WPD - Drainage Pond Maintenance,3.72
+2024,SBO - New Sidewalk/Curb Ramp/Route,4.1538461538461542
+2024,ATD - Booting Complaint,4.4666666666666668
+2024,ATD - Special Event,4.5
+2024,DSD - Private Hauler License Violation,4.666666666666667
+2024,AE - Electric Vehicle Station Issues,4.708333333333333
+2024,WPD - Channels/Creek/Drainage Issues,4.8538011695906436
+2024,WPD - Erosion,5.0
+2024,Park Maintenance - Grounds Plumbing Issues,5.1111111111111107
+2024,ATD - School Zone Beacon - Maintenance,5.1355932203389827
+2024,WPD - Standing Water,5.4210526315789478
+2024,ZZ AFD - Fireworks Complaint,5.6402439024390238
+2024,Park Maintenance - Building Plumbing Issues,5.8125000000000009
+2024,ATD - Street Name Sign Maintenance,5.9999999999999991
+2024,AFD - Wildfire Education,6.0
+2024,Park Maintenance - Building Issues,6.0
+2024,WPD - Flooding Past,6.0000000000000009
+2024,Animal Protection - Animal Bite,6.4166666666666661
+2024,Zz_ATD - Construction Items in Right of Way,6.75
+2024,CPIO - Community Voices,6.9090909090909083
+2024,WPD - Lady Bird Lake Debris Issues,7.4285714285714288
+2024,ATD - Speed Management,7.5882352941176476
+2024,DSD - Short Term Rental Complaint,7.7636363636363637
+2024,ATD - View Obstruction and Fencing at Intersection,8.0625
+2024,ATD - Traffic Sign New,8.2142857142857153
+2024,APH - Graffiti Abatement - Public Property,8.7346938775510221
+2024,ARR - On Call Bulk,8.7346938775510221
+2024,Animal Protection - Vicious Dog Complaint,8.97142857142857
+2024,ATD - Road Markings/Striping - Maintenance,9.2105263157894743
+2024,ATD - Road Markings/Striping - New,9.2499999999999982
+2024,APD - Vehicle Abatement Report,9.761904761904761
+2024,ATD - Pay-by-Phone App,10.090909090909092
+2024,ARR - On Call Brush,12.142857142857142
+2024,ATD - Bicycle &amp; Pedestrian Issues,13.22222222222222
+2024,TARA - Telecommunication Complaint,18.0
+2024,Park Maintenance - Building A/C &amp; Heating Issues,30.0
