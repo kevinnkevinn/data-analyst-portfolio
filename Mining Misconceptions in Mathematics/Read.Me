@@ -1,0 +1,34 @@
+This code participates in the Kaggle competition "Eedi - Mining Misconceptions in Mathematics". The competition aims to develop a model that automatically identifies misconceptions students have in math based on their answers to multiple-choice questions.
+
+Problem Statement:
+
+Identifying a student's specific misconceptions in math is crucial for targeted instruction and improved learning outcomes. Manually analyzing student answers is time-consuming and inefficient. This competition seeks a solution to automatically detect misconceptions based on the answer choices students select.
+
+Data Description:
+
+The provided dataset consists of several CSV files:
+
+train.csv and test.csv: These files contain information about multiple-choice questions focused on specific mathematical concepts (constructs). They include:
+QuestionId: Unique identifier for each question.
+ConstructId: Unique identifier for the targeted mathematical concept.
+ConstructName: Description of the mathematical concept being assessed.
+CorrectAnswer: The letter (A, B, C, or D) corresponding to the correct answer.
+SubjectId: Unique identifier for the student who answered the question.
+SubjectName: More general category of the question (e.g., Algebra, Geometry).
+QuestionText: Text of the question extracted from an image using OCR.
+Answer[A/B/C/D]Text: Text of each answer option extracted from an image.
+Misconception[A/B/C/D]Id: Unique identifier for the misconception associated with each answer option in the training set (ground truth). Your model's task is to predict these misconception IDs for the test set.
+misconception_mapping.csv: This file maps between the Misconception IDs and their corresponding human-readable names (e.g., "Divides by the wrong quantity").
+sample_submission.csv: This file provides a template for submitting your predictions in the correct format.
+Analysis Goal:
+
+The goal of this code is to develop a model that analyzes the question text, answer choices, and potentially other features to predict the Misconception ID associated with each incorrect answer choice in the test set. This will allow us to identify the specific mathematical misconception a student holds based on the answer they selected.
+
+Expected Outcome:
+
+The code should produce a model that accurately predicts the Misconception ID for incorrect answers in the unseen test set. This model can then be used to automatically identify student misconceptions in real-world scenarios, leading to more targeted and effective math education.
+
+Additional Notes:
+
+The competition uses a hidden test set, meaning the actual data used for evaluation won't be available during development. However, the provided training data allows for training and refining the model.
+Text extraction using OCR might introduce errors that require consideration during data preprocessing.
