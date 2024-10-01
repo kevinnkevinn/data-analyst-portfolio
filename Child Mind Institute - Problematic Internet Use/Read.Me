@@ -1,0 +1,29 @@
+HBN Dataset: Predicting Problematic Internet Use (README.md)
+This repository contains data for a competition focused on predicting problematic internet use in children and adolescents. The data comes from the Healthy Brain Network (HBN) study, which collected information from participants aged 5-22 years old.
+
+Goal:
+
+Develop a model to predict the Severity Impairment Index (sii) based on physical activity and internet usage data. The sii is a standard measure of problematic internet use, ranging from 0 (None) to 3 (Severe).
+
+Data:
+
+The data is split into two sources:
+
+Parquet Files (Actigraphy): These files contain continuous accelerometer data collected by wrist-worn trackers. Each file (series_{train|test}.parquet/id={id}) represents data for a single participant.
+CSV Files (Tabular Data): These files contain various measurements from different instruments, including demographics, internet use surveys, fitness assessments, and health questionnaires. The relevant fields and descriptions are provided in data_dictionary.csv.
+Key Points:
+
+The target variable (sii) is missing for a portion of the training data. Consider using non-supervised learning techniques.
+The sii is derived from the PCIAT-PCIAT_Total field in the train.csv and test.csv files, as detailed in the data_dictionary.csv.
+The actigraphy data includes various measures like step count, acceleration along axes, wear/non-wear flags, and environmental sensors (light, battery voltage).
+Provided Files:
+
+train.csv: Tabular data for training participants.
+test.csv: Tabular data for testing participants (sii included).
+data_dictionary.csv: Instrument and field descriptions.
+series_{train|test}.parquet: Actigraphy data for training and testing.
+sample_submission.csv: Example submission format for predicted sii values.
+Further Resources:
+
+Data Dictionary: Check data_dictionary.csv for detailed descriptions of each field.
+Evaluation Page (link to be provided): Learn about evaluation metrics and submission format for the competition.
