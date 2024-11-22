@@ -1,0 +1,43 @@
+#MCTS Variant Performance Prediction for Board Games
+This repository contains code for a Kaggle competition entry that predicts the performance of different Monte Carlo Tree Search (MCTS) variants in various board games.
+
+About the Competition
+MCTS is a popular algorithm used to develop intelligent agents for board games. Researchers have proposed numerous MCTS variants, but it's challenging to determine which ones work best for specific games.
+
+This competition aims to address this by creating a model that predicts the performance of one MCTS variant against another based solely on the features of the game.
+
+Dataset Description
+The competition provides a dataset containing outcomes from MCTS agents playing various board games. Each data point represents a single game played between two specific agents with the following features:
+
+Game Characteristics: Information about the game and its ruleset (e.g., deterministic vs. stochastic, board shape, rule descriptions).
+Agent Descriptions: Details about the MCTS variants used by each player (selection strategy, exploration constant, playout strategy, score bounds).
+Outcomes: Number of wins, draws, and losses for each agent, and the overall utility value (between -1 and 1) achieved by the first player.
+The dataset is split into training and test sets. The test set is hidden, and predictions are submitted through the Kaggle evaluation API.
+
+Provided Files
+train.csv: Training data with game features, agent descriptions, and outcomes.
+test.csv: Test data with game features and agent descriptions (target values missing).
+sample_submission.csv: Example submission file format.
+concepts.csv: Information about game concepts used as features.
+kaggle_evaluation/: Files for the Kaggle evaluation API (offline testing recommended).
+starter_notebook.ipynb: Starting point for building your model.
+Agent String Descriptions
+Agent descriptions in the data follow this format:
+
+MCTS-<SELECTION>-<EXPLORATION_CONST>-<PLAYOUT>-<SCORE_BOUNDS>
+<SELECTION>: Selection strategy (UCB1, UCB1GRAVE, ProgressiveHistory, UCB1Tuned).
+<EXPLORATION_CONST>: Exploration constant value (0.1, 0.6, 1.41421356237).
+<PLAYOUT>: Playout strategy (Random200, MAST, NST).
+<SCORE_BOUNDS>: Whether score bounds are used (true/false).
+Getting Started
+Clone this repository.
+Install required libraries (refer to starter notebook).
+Explore the provided data (train.csv, concepts.csv).
+Develop your model using the starter notebook as a base.
+Train your model on the training data.
+Evaluate your model's performance on a local validation set (not provided).
+Submit your predictions on the Kaggle competition platform.
+Resources
+Kaggle Competition: [Link to Kaggle Competition Here]
+Ludii Website (Game Description Language): [Link to Ludii Website Here]
+This Read.Me provides a basic overview of the project. Refer to the provided code and resources for further details.
