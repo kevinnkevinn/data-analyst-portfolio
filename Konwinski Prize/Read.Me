@@ -1,0 +1,58 @@
+# README for Konwinski Prize Competition Project
+
+## **Overview**
+
+The **Konwinski Prize** is a Kaggle competition offering a **$1M reward** to the first team that can develop an AI capable of resolving over **90% of new GitHub issues** using a new version of the **SWE-bench benchmark**. My goal is to create a **contamination-free leaderboard** by collecting a fresh test set of GitHub issues after the submission deadline, ensuring that the AI model is evaluated on truly unseen data.
+
+## **Project Description**
+
+In this project, I aim to build an **AI agent** that can effectively resolve **real-world GitHub issues** from popular repositories. The **SWE-bench benchmark** serves as the foundation for this competition, providing a challenging dataset for training and evaluation. I believe in the power of **open-source contributions**, so all submissions must utilize open-source code and models.
+
+By automating the resolution of GitHub issues, I hope to free up software engineers to focus on more creative tasks, such as designing new features and improving user interfaces.
+
+## **Evaluation Criteria**
+
+Submissions will be evaluated based on a scoring metric that incentivizes skipping an issue rather than submitting a poor-quality patch. The score is calculated as follows:
+
+$$ \text{score} = \frac{a - b}{a + b + c} $$
+
+Where:
+- **$$ a $$** = number of correctly resolved issues
+- **$$ b $$** = number of failing issues
+- **$$ c $$** = number of skipped issues
+
+## **Dataset Description**
+
+The dataset includes:
+
+- **data/data.parquet**: The training set metadata with a limited number of examples. I can source additional codebases for training my model.
+- **instance_id**: A unique identifier for each GitHub issue.
+- **repo**: The relevant GitHub repository.
+- **problem_statement**: A description of the issue.
+- **patch**: The patch that resolves the issue (provided only for the training set).
+- **pull_number**: The pull request number associated with the resolution.
+- **base_commit**: The commit used as the basis for the provided copy of the repository.
+- **issue_numbers**: The original ID number of the issue.
+- **[PASS_TO_PASS/FAIL_TO_PASS]**: Lists of unit tests to run for each issue.
+
+## **Competition Phases**
+
+The competition consists of two main phases:
+
+1. **Model Training Phase**: I will train my model using the public test set of historical data, which contains about **100 instances**. This phase will help establish a leaderboard based on model performance.
+
+2. **Forecasting Phase**: After the submission deadline, a new test set will be collected, containing approximately **150-200 instances**. This phase will evaluate the models on data that was not available during training.
+
+## **Setup Instructions**
+
+To set up the environment for this competition, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine or Kaggle Notebook.
+2. **Install Dependencies**: Use the provided **kprize_setup** files to install the necessary libraries.
+3. **Run the Evaluation API**: Follow the example notebook provided in the competition to understand how to use the evaluation API for scoring submissions.
+
+## **Conclusion**
+
+This project is an exciting opportunity to leverage AI in the software development process, addressing real-world challenges faced by developers. I look forward to participating in this competition and contributing to the advancement of AI in software engineering.
+
+For any questions or discussions, feel free to reach out through the competition forum or contact me directly.
