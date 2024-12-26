@@ -1,0 +1,95 @@
+problem_statement,predicted_patch
+Example problem statement 1,"diff --git a/astropy/io/registry/core.py b/astropy/io/registry/core.py
+index 9147101f8b7..b7325c4beb1 100644
+--- a/astropy/io/registry/core.py
++++ b/astropy/io/registry/core.py
+@@ -225,7 +225,7 @@ def read(self, cls, *args, format=None, cache=False, **kwargs):
+                 # registered.  This returns the parent class, so try coercing
+                 # to desired subclass.
+                 try:
+-                    data = cls(data)
++                    data = cls(data, copy=False)
+                 except Exception:
+                     raise TypeError(
+                         f""could not convert reader output to {cls.__name__} class.""
+diff --git a/astropy/table/pprint.py b/astropy/table/pprint.py
+index a910753a2e0..56485717769 100644
+--- a/astropy/table/pprint.py
++++ b/astropy/table/pprint.py
+@@ -449,7 +449,10 @@ def _pformat_col_iter(
+             i_centers.append(n_header)
+             n_header += 1
+             if dtype is not None:
+-                col_dtype = dtype_info_name((dtype, multidims))
++                # For zero-length strings, np.dtype((dtype, ())) does not work;
++                # see https://github.com/numpy/numpy/issues/27301
++                # As a work-around, just omit the shape if there is none.
++                col_dtype = dtype_info_name((dtype, multidims) if multidims else dtype)
+             else:
+                 col_dtype = col.__class__.__qualname__ or ""object""
+             yield col_dtype
+diff --git a/docs/changes/io.fits/16898.bugfix.rst b/docs/changes/io.fits/16898.bugfix.rst
+new file mode 100644
+index 00000000000..40da95978d2
+--- /dev/null
++++ b/docs/changes/io.fits/16898.bugfix.rst
+@@ -0,0 +1,3 @@
++Ensure that ``QTable``, like ``Table``, can read zero-length string columns,
++and not convert them to length 1 strings. In the process, avoid a needless
++copy of all the data for ``QTable``.
+diff --git a/docs/changes/table/16898.bugfix.rst b/docs/changes/table/16898.bugfix.rst
+new file mode 100644
+index 00000000000..57eb6564a5c
+--- /dev/null
++++ b/docs/changes/table/16898.bugfix.rst
+@@ -0,0 +1,2 @@
++Pretty-printing of Tables now also works in the presence of zero-length string
++columns (which sometimes are present in FITS tables).
+"
+Example problem statement 2,"diff --git a/astropy/io/registry/core.py b/astropy/io/registry/core.py
+index 9147101f8b7..b7325c4beb1 100644
+--- a/astropy/io/registry/core.py
++++ b/astropy/io/registry/core.py
+@@ -225,7 +225,7 @@ def read(self, cls, *args, format=None, cache=False, **kwargs):
+                 # registered.  This returns the parent class, so try coercing
+                 # to desired subclass.
+                 try:
+-                    data = cls(data)
++                    data = cls(data, copy=False)
+                 except Exception:
+                     raise TypeError(
+                         f""could not convert reader output to {cls.__name__} class.""
+diff --git a/astropy/table/pprint.py b/astropy/table/pprint.py
+index a910753a2e0..56485717769 100644
+--- a/astropy/table/pprint.py
++++ b/astropy/table/pprint.py
+@@ -449,7 +449,10 @@ def _pformat_col_iter(
+             i_centers.append(n_header)
+             n_header += 1
+             if dtype is not None:
+-                col_dtype = dtype_info_name((dtype, multidims))
++                # For zero-length strings, np.dtype((dtype, ())) does not work;
++                # see https://github.com/numpy/numpy/issues/27301
++                # As a work-around, just omit the shape if there is none.
++                col_dtype = dtype_info_name((dtype, multidims) if multidims else dtype)
+             else:
+                 col_dtype = col.__class__.__qualname__ or ""object""
+             yield col_dtype
+diff --git a/docs/changes/io.fits/16898.bugfix.rst b/docs/changes/io.fits/16898.bugfix.rst
+new file mode 100644
+index 00000000000..40da95978d2
+--- /dev/null
++++ b/docs/changes/io.fits/16898.bugfix.rst
+@@ -0,0 +1,3 @@
++Ensure that ``QTable``, like ``Table``, can read zero-length string columns,
++and not convert them to length 1 strings. In the process, avoid a needless
++copy of all the data for ``QTable``.
+diff --git a/docs/changes/table/16898.bugfix.rst b/docs/changes/table/16898.bugfix.rst
+new file mode 100644
+index 00000000000..57eb6564a5c
+--- /dev/null
++++ b/docs/changes/table/16898.bugfix.rst
+@@ -0,0 +1,2 @@
++Pretty-printing of Tables now also works in the presence of zero-length string
++columns (which sometimes are present in FITS tables).
+"
